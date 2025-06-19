@@ -39,10 +39,10 @@
     # Tag 11 (19.06.2025):
   - Programmieren in Python lernen an: 
     * Matrixoperationen
-    * Beispiele für O-Notationen (O[1], O[n], O[n²])
+    * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
         Erklärung in Youtube angeschaut
 
-Das Programmieren ist mit schwer gefallen - KI hat ausgeholfen - und Bedarf dringend Nachholbedarf. Beim Verstehen von Codezeilen hat mir ein Arbeitskollege das Debuggen in Visual Studio Code gezeigt und es half mir sehr, eine Funktion zu verstehen.
+Das Programmieren ist mit schwer gefallen - KI hat ausgeholfen - und Bedarf dringend Nachholbedarf. Beim Verstehen von Codezeilen hat mir ein Arbeitskollege das Debuggen in Visual Studio Code gezeigt und es half mir sehr, eine Funktion zu verstehen (Aha-Effekt).
 
 def lineare_Suche(data, Zielwert):
     """Durchsucht eine Liste nach einem Zielwert (lineare Suche)."""
@@ -61,4 +61,7 @@ print(f"Der Wert {target_value} wurde im Index {Ergebnis} gefunden.")
 print(numbers)
 
 Ich verstand nicht, wo das Array numbers oder numbers2 von der Funktion lineare_Suche() verwendet wird. Mir wurde es sehr gut vom Kollegen erklärt und die Debuggingfunktion half, mir den Prozess zu durchlaufen Schritt für Schritt. 
+Der oben angegebene Algorithmus stellt eine O(n) Laufzeitkomplexität dar, da die for-Schleife n-Schritte durchläuft bis zu einem Ergebnis. Wären 2 for-Schleifen gekoppelt dann gilt: O(n*n) = O(n²). Der Aufwand erhöht somit und für jede Mengeneingabe steigt der Aufwand nun quadratisch an anstatt linear wie bei O(n). 
+Die O-Notationen oder auch Landaunotationen geben die Laufzeitkomplexität in Abhängigkeit zur Eingabemenge an. 
 
+Gefühlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt dafür nachhaltig und wird nicht so schnell wieder vergessen.
