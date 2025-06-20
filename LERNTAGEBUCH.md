@@ -68,3 +68,8 @@ Gef체hlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt daf�
   - Python: Pandas -> Scatterplotts und Korrelationen
             Numpy Arrays
             Training -> Funktionen schreiben
+
+Heute habe ich das Programmieren mit Python trainiert und einen Datensatz auf analysiert und visualisiert. Da das Programmieren noch nicht so leicht von der Hand geht, habe ich einige Funktionen geschrieben (Funktionen.jpynb).
+
+Der heutige Tag stimmt mich traurig, da mein Vorgesetzter nicht zufrieden mit mir ist und das Gef체hl hat, so habe ich es zumindest verstanden, dass ich nicht gen체gend Interesse f체r Informatik mitbringe. Das ist f체r mich unverst채ndlich. 
+Allerdings habe ich eine Woche Zeit, damit sich das Gef체hl meines Vorgesetzten 채ndert.
