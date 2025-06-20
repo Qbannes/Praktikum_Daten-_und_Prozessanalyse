@@ -114,3 +114,14 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Neuausrichtung und Planung der nächsten Wochen und Monate
     * Repository anlegen für den persönlichen Fortschritt und einer 
       Dokumentations- und Wissensdatenbank im Markdown-Format
+
+# Tag 11 (19.06.2025):
+  - Programmieren in Python lernen an: 
+    * Matrixoperationen
+    * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
+        Erklärung in Youtube angeschaut
+
+# Tag 12 (20.06.2025):
+  - Python: Pandas -> Scatterplotts und Korrelationen
+            Numpy Arrays
+            Training -> Funktionen schreiben

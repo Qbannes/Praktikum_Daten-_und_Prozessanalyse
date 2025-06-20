@@ -1,8 +1,8 @@
 # Praktikum_Daten-_und_Prozessanalyse -> Ziel: Quantencomputing
 
 # Grober Fahrplan:
-  - English aufbessern (Lesen)
-  - Literatur Querlesen
+  - Englisch aufbessern (Lesen)
+  - Literatur querlesen
   - Fortschritte/Arbeit Dokumentieren
 ## Themen:
   - Data Science
@@ -34,9 +34,7 @@
     Dabei musste ich feststellen, dass einige Tools zunächst lernen musste zu bedienen. Angefangen der Umgang mit Gitkraken i.V.m. Github. 
     Zusammengfasst waren die ersten beiden Wochen keine fortschrittlichen Wochen.  Diese dienten zum Ankommen im Praktikumsbetrieb, zum Einrichten, zum Kennenlernen der Kollegen und zum Orientieren. Jetzt weiß ich grob, was ich alles an Skills benötige, um im Bereich Quanteninformatik mit Fokus auf Quantenalgorithmen foran zu kommen. 
 
-# 19.06.2025:
-
-    # Tag 11 (19.06.2025):
+# Tag 11 (19.06.2025):
   - Programmieren in Python lernen an: 
     * Matrixoperationen
     * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
@@ -65,3 +63,8 @@ Der oben angegebene Algorithmus stellt eine O(n) Laufzeitkomplexität dar, da di
 Die O-Notationen oder auch Landaunotationen geben die Laufzeitkomplexität in Abhängigkeit zur Eingabemenge an. 
 
 Gefühlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt dafür nachhaltig und wird nicht so schnell wieder vergessen.
+
+# Tag 12 (20.06.2025):
+  - Python: Pandas -> Scatterplotts und Korrelationen
+            Numpy Arrays
+            Training -> Funktionen schreiben
