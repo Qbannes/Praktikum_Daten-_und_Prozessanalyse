@@ -72,4 +72,11 @@ Gefühlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt daf�
 Heute habe ich das Programmieren mit Python trainiert und einen Datensatz auf analysiert und visualisiert. Da das Programmieren noch nicht so leicht von der Hand geht, habe ich einige Funktionen geschrieben (Funktionen.jpynb).
 
 Der heutige Tag stimmt mich traurig, da mein Vorgesetzter nicht zufrieden mit mir ist und das Gefühl hat, so habe ich es zumindest verstanden, dass ich nicht genügend Interesse für Informatik mitbringe. Das ist für mich unverständlich. 
-Allerdings habe ich eine Woche Zeit, damit sich das Gefühl meines Vorgesetzten ändert.
+
+# Wochenende (22.06.2025):
+  - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
+
+Fahrplan nochmals angepasst mit klarem Ziel: Quantenalgorithmen in der Logistik zum Einsatz bringen. Der Weg dorthin wird im Dreiklang (1,2,3 Daily) von Quanteninformatik, Daten und Prozesse begleitet und harmoniert perfekt mit 
+dem Fach des Daten- und Prozessanalysten. Der Höhepunkt wird das Projekt sein, welches den Titel "Hybride Optimierung von Logistikrouten: Quantenalgorithmen (QAOA) vs. klassische Methoden am Beispiel Travelling-Salesman-Problem" tragen wird.
+
+Ich schätze das Ziel als sehr ambitioniert ein und denke, dass die verbleibenden acht Monate nicht ausreichen werden, allerdings irre ich mich auch gerne. 

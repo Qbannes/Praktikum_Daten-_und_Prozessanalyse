@@ -125,3 +125,6 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Python: Pandas -> Scatterplotts und Korrelationen
             Numpy Arrays
             Training -> Funktionen schreiben
+
+# Wochenende (22.06.2025):
+  - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
