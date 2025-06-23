@@ -128,3 +128,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 # Wochenende (22.06.2025):
   - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
+
+# Tag 13 (23.06.2025):
+  - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
+    * Quantengatter

@@ -80,3 +80,13 @@ Fahrplan nochmals angepasst mit klarem Ziel: Quantenalgorithmen in der Logistik 
 dem Fach des Daten- und Prozessanalysten. Der Höhepunkt wird das Projekt sein, welches den Titel "Hybride Optimierung von Logistikrouten: Quantenalgorithmen (QAOA) vs. klassische Methoden am Beispiel Travelling-Salesman-Problem" tragen wird.
 
 Ich schätze das Ziel als sehr ambitioniert ein und denke, dass die verbleibenden acht Monate nicht ausreichen werden, allerdings irre ich mich auch gerne. 
+
+# Tag 13 (23.06.2025):
+  - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
+    * Quantengatter
+  - 
+
+Der Vortrag von Prof. Dr. Steffen Glaser Quantenmechanik zum Anfassen veranschaulicht sehr gut, wie sich Qubits verhalten, wenn man Sie manipuliert. 
+Hadamard-Gatter: bringt in Superposition, CNOT-Gatter in Abhängigkeit zu Qubit X: Verschränkung zweier Qubits, Messgatter: Messung
+Die Schaltkreise sind ideal, um besondere Algorithmen zu entwerfen. 
+
