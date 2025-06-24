@@ -105,7 +105,7 @@ sollen verdeutlich werden, das darüber beschieden werden muss, ob und in welche
 umzudisponieren.
 
 
-# Tag 13 (24.06.2025):
+# Tag 14 (24.06.2025):
   - Buch: Learn Quanten Computing with Python and Q# (Seite 1-18)
 
 Quanten:
@@ -115,6 +115,17 @@ können Quantensysteme der heutigen Größe aufzeichnen. Und zu guter Letzt gibt
 auf klassischen Computern und welche Aufgaben die Vorteile von Quantencomputern nutzen können.
 
 Daten:
+Die Datenbank über die Städte und unter anderem ihre Koordinaten habe ich die Spalte Liefermenge in Paletten hinzugefügt. 
+LKWs laden Paletten, die irgendwo hin müssen. Die Städte haben jetzt Liefermengen zugeteilt bekommen womit man jetzt Routen planen kann, wie und wo ein LKW hinbringt und oder auflädt. Die Komplexität für einen Algorithmus wird sich erhöhen. Um wie viel, das werde ich in Kürze herausfinden. 
+"Quintessenz": Die Komplexität vor der die Logistik an sich steht ist immens und garnicht mehr vorstellbar. 
+
+Prozesse:
+Digitaler Zwilling: Wie schon mit Kklaus besprochen bietet der digitale Zwilling Möglichkeiten der Daten- und Prozessanalyse. Gerade beim Abbild von Maschinen, ganzen Produktionsanlagen oder sogar ganzer Unternehmen oder Konzerne kommen 
+unermesslich viele Daten zusammen, die gerade dazu einladen analysiert und benutzt zu werden, um Prozesse zu optimieren im Machine Learning einzusetzen oder Statistiken für Verhalten, Abnutzung, Vorhersagen, Unternehmensentscheidungen und vieles mehr zu erstellen.
+
+ActiveDB:
+Laut Internet und Youtubeauftritten eines Partners der Firma bill-x kann ActiveBD als Schnittstelle mit der Fülle an Daten 
+, die in Maschinen anfallen umgehen und damit zugleich Kunden- und Unternehmenspreferenzen gerecht werden. 
 
 
 

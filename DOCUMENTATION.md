@@ -138,3 +138,11 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Buch: Learn Quanten Computing with Python (Seite 1-16)
   - Start Programmieren QC in Python 
       * Lernquelle (https://github.com/Qbannes/learn-qc-with-python-and-qsharp/blob/main/ch02/simulator.py), Chapter 02
+  - Datenbearbeitung (Python):
+    * Testdaten (CSV) erstellt und den gedownloadeten Rohdaten hinzugefügt (CSV zu CSV) und gespeichert
+    * Daten bereinigt und Duplikate entfernt
+    * daraus neue Distanzmatrix berechnet (Städteentfernungsmatrix)
+  - Prozesse: 
+    * Digitaler Zwilling -> Internetrecherche und [Youtube] (https://www.youtube.com/watch?v=y0ZxE7hYf8w)
+    * ActiveDB (Firma bill-x) [Youtube] (https://www.youtube.com/watch?v=Xt0SS7YRV3k)
+                              [Youtube] (https://www.youtube.com/watch?v=bPzMwLKSOaA)

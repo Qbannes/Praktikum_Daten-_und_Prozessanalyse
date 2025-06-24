@@ -7,4 +7,10 @@
 - Kernthema: Data Sience: Datenrepräsentation, klassische Optimierung (z.B. lineare Programmierung für Logistik)
  * one two three daily: 1. Quanten 2. Daten 3. Prozesse
 - Lernergebnis positiv da ich weiß was ich (Anmerkung: noch) nicht weiß
+
+## 23.06.2025
+- Active DB, digital twin ---> Daten- und Prozessdigitalisierung
+- Partner von Inationware: bill-x, WFF-IT, Henke
+    * profitieren durch nebenbei dort lernen und arbeiten (evtl. Nebenverdienst)
+
   
