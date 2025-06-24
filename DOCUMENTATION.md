@@ -132,3 +132,4 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 # Tag 13 (23.06.2025):
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
+  - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
