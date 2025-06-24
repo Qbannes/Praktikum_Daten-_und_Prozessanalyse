@@ -85,6 +85,7 @@ Ich schätze das Ziel als sehr ambitioniert ein und denke, dass die verbleibende
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
   - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
+  - Prozesse: BPMN-Model eines Störungsfalls in der Logistikbranche
 
 Quantenmechanik:
 Der Vortrag von Prof. Dr. Steffen Glaser Quantenmechanik zum Anfassen veranschaulicht sehr gut, wie sich Qubits verhalten, wenn man Sie manipuliert. 
@@ -98,4 +99,30 @@ Größte Hürde war, die CSV auf 2001 Zeilen runterzukürzen und diese in Python
 bearbeitet. Zwei Stunden habe ich rumprobiert, bis es mit Notepad ++ die Erlösung möglich war, die CSV zu bearbeiten und dann von Python einlesen zu lassen. Woran es lag 
 weiß ich allerdings immer noch nicht. Aber ich hab das Problem zunächst erstmal selbst gelöst. 
 
-Prozesse:
+Prozesse: 
+Das BPMN-Modell stellt ein Szenario in der Losistikbranche eines Logiistikunternehmens dar. Rund 15000 Frachten müssen innerhalb kürzester Zeit neu disponiert werden. Hier
+sollen verdeutlich werden, das darüber beschieden werden muss, ob und in welchem Maße Quantentechnologien zum Einsatz kommen soll, um die 15000 Frachten binnen kürzester zeit
+umzudisponieren.
+
+
+# Tag 13 (24.06.2025):
+  - Buch: Learn Quanten Computing with Python and Q# (Seite 1-18)
+
+Quanten:
+Das Buch Learn Quantum computing with Python and Q# hat einen für mich wesentlichen Aspekt auf den ersten Seiten geliefert. Quantencomputer werden vorerst nur
+spezielle Aufgaben lösen können und des Weiteren sind sie hinsichtlich der Eingabemenge sehr begrenzt. Lediglich Eingaben von höchstens ein paar dutzend Bits 
+können Quantensysteme der heutigen Größe aufzeichnen. Und zu guter Letzt gibt es auch bisher keine festen Regeln, um zu entscheiden, welche Aufgaben am besten
+auf klassischen Computern und welche Aufgaben die Vorteile von Quantencomputern nutzen können.
+
+Daten:
+
+
+
+
+
+
+
+
+
+
+

@@ -133,3 +133,8 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
   - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
+
+  # Tag 14 (24.06.2025):
+  - Buch: Learn Quanten Computing with Python (Seite 1-16)
+  - Start Programmieren QC in Python 
+      * Lernquelle (https://github.com/Qbannes/learn-qc-with-python-and-qsharp/blob/main/ch02/simulator.py), Chapter 02
