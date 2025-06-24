@@ -84,9 +84,18 @@ Ich schätze das Ziel als sehr ambitioniert ein und denke, dass die verbleibende
 # Tag 13 (23.06.2025):
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
-  - 
+  - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
 
+Quantenmechanik:
 Der Vortrag von Prof. Dr. Steffen Glaser Quantenmechanik zum Anfassen veranschaulicht sehr gut, wie sich Qubits verhalten, wenn man Sie manipuliert. 
 Hadamard-Gatter: bringt in Superposition, CNOT-Gatter in Abhängigkeit zu Qubit X: Verschränkung zweier Qubits, Messgatter: Messung
 Die Schaltkreise sind ideal, um besondere Algorithmen zu entwerfen. 
 
+Daten:
+Die Entfernungen zueinander von 48000 Städten zu berechnen scheiterte an der Hardware meines laptops. 2000 Städte tatens auch. Bei der Berechnung der Entfernung bediente
+ich mich der Haversine-Formel in Python. 
+Größte Hürde war, die CSV auf 2001 Zeilen runterzukürzen und diese in Python wieder einzulesen. Python fand die Spalten auf Mal nicht mehr. DIe CSV hatte ich mit EXCEL 
+bearbeitet. Zwei Stunden habe ich rumprobiert, bis es mit Notepad ++ die Erlösung möglich war, die CSV zu bearbeiten und dann von Python einlesen zu lassen. Woran es lag 
+weiß ich allerdings immer noch nicht. Aber ich hab das Problem zunächst erstmal selbst gelöst. 
+
+Prozesse:
