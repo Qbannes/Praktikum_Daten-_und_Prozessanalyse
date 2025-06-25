@@ -146,3 +146,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Digitaler Zwilling -> Internetrecherche und [Youtube] (https://www.youtube.com/watch?v=y0ZxE7hYf8w)
     * ActiveDB (Firma bill-x) [Youtube] (https://www.youtube.com/watch?v=Xt0SS7YRV3k)
                               [Youtube] (https://www.youtube.com/watch?v=bPzMwLKSOaA)
+
+# Tag 15 (25.06.2025):
+  - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
+    * Versuch Code zum Laufen zu bringen gescheitert

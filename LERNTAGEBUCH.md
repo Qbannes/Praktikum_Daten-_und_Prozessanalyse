@@ -128,9 +128,26 @@ Laut Internet und Youtubeauftritten eines Partners der Firma bill-x kann ActiveB
 , die in Maschinen anfallen umgehen und damit zugleich Kunden- und Unternehmenspreferenzen gerecht werden. 
 
 
+# Tag 15 (25.06.2025):
+  - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
+    * Versuch Code zum Laufen zu bringen gescheitert
 
+Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich versucht die Umgebung in Visual Studio Code für Q# herzustellen. Daran bin ich kläglich gescheitert. 
+         Co-Pilot konnte mir weitestgehend helfen, bin aber auch damit bei einem Schritt gescheitert. für Q# war eine Installation von Nöten und .Net Version 6.0.42, die explizit nur
+         mit Visual Studio Code kooperiert. Nachdem ich mehrere .NET Versionen probiert hatte, habe ich gemerkt, dass ich die Umgebungsvariabel ändern musste. Darüber hinaus musste
+         ich auch feststellen, dass ich mehrere Python Versionen installiert hatte und musst die ältere Version deinstallieren. 
+         Ab einem gewissen Punkt wollte ich auf Conda umschwenken und ab da an ging gar nichts mehr. 
+         Zurück zu Visual Studio Code habe ich es nach Stunden endlich hinbekommen die Umgebung so einzurechten, dass ich im Prinzip starten konnte zu programmieren.
+         Gleich habe ich Beispiel zwei Codes in Q# aus dem Buck "Learn Quantum Computing with Python and Q#" ausprobiert, die nicht funktionierten. Das Buch verwies auf ein 
+         Repository, dass alle Code-Zeilen aus dem Buch enthält (https://github.com/crazy4pi314/learn-qc-with-python-and-qsharp) Leider ohne Erfolg. 
+         die beiden Beispiele aus dem Buch liefen lediglich nach Korrektur auf (https://quantum.microsoft.com/en-us/tools/quantum-coding)
+         Die Code-Zeilen aus dem Repository sind drei Jahre alt. Wahrscheinlich hat sich seither einiges geändert, ist meine Vermutung. Ricarda konnte mir leider auch 
+         nicht helfen. Kai hat es geschafft, dass die Fehlermeldung nach dem Ausführen eines Programms wegfiel indem wir die Namespaces im Code von Q# entfernten. 
+         Nachdem über ein halber Tag draufgegangen ist, werde ich mich Qiskit und Python und Jupyter zuwenden, was bisher reibungslos funktionierte.
 
+         ![Bild](test.png)         
 
+        
 
 
 
