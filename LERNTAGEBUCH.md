@@ -131,7 +131,8 @@ Laut Internet und Youtubeauftritten eines Partners der Firma bill-x kann ActiveB
 # Tag 15 (25.06.2025):
   - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
     * Versuch Code zum Laufen zu bringen gescheitert
-
+  - Qiskit: Versuch in Qiskit algorithmen zu starten und zu visualisieren gescheitert
+  
 Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich versucht die Umgebung in Visual Studio Code für Q# herzustellen. Daran bin ich kläglich gescheitert. 
          Co-Pilot konnte mir weitestgehend helfen, bin aber auch damit bei einem Schritt gescheitert. für Q# war eine Installation von Nöten und .Net Version 6.0.42, die explizit nur
          mit Visual Studio Code kooperiert. Nachdem ich mehrere .NET Versionen probiert hatte, habe ich gemerkt, dass ich die Umgebungsvariabel ändern musste. Darüber hinaus musste
@@ -147,7 +148,10 @@ Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich vers
 
          ![Bild](test.png)         
 
-        
+        Qiskit, macht seit heute auch Probleme, denn es will nicht den Crover-Algorithmus starten weil es dann rummeckert, dass bestimmte Module nicht in den aus zu imprtierenden Modulen zu finden sind. 
+        Angeblich gibt es Versionsinkompatibilitäten zwischen qiskit, Matplotlb und Numpy. Viel zu lange probiere ich mehrere Versionen aus durch deinstallieren und installieren. 
+        Ich kann zwar Quantenalgorithmen anwenden, allerdings nicht visualisieren. 
+
 
 
 

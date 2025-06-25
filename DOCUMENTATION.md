@@ -150,3 +150,4 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 # Tag 15 (25.06.2025):
   - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
     * Versuch Code zum Laufen zu bringen gescheitert
+  - Qiskit: Versuch in Qiskit algorithmen zu starten und zu visualisieren gescheitert
