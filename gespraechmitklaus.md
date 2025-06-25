@@ -13,4 +13,8 @@
 - Partner von Inationware: bill-x, WFF-IT, Henke
     * profitieren durch nebenbei dort lernen und arbeiten (evtl. Nebenverdienst)
 
+## 25.06.2025
+- 2 wöchigen Fahrplan für Praktikanten ab 30.06.2025, Arbeitsplatz einrichten, gemeinsam an
+  Quantencomputing arbeiten
+
   

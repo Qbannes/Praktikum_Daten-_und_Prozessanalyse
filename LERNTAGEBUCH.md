@@ -77,7 +77,7 @@ Der heutige Tag stimmt mich traurig, da mein Vorgesetzter nicht zufrieden mit mi
   - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
 
 Fahrplan nochmals angepasst mit klarem Ziel: Quantenalgorithmen in der Logistik zum Einsatz bringen. Der Weg dorthin wird im Dreiklang (1,2,3 Daily) von Quanteninformatik, Daten und Prozesse begleitet und harmoniert perfekt mit 
-dem Fach des Daten- und Prozessanalysten. Der Höhepunkt wird das Projekt sein, welches den Titel "Hybride Optimierung von Logistikrouten: Quantenalgorithmen (QAOA) vs. klassische Methoden am Beispiel Travelling-Salesman-Problem" tragen wird.
+dem Fach des Daten- und Prozessanalysten. Der Höhepunkt wird das Projekt sein, welches den Titel "Hybride Optimierung von Logistikrouten: Quantenalgorithmen (QAOA) vs. klassische Methoden am Beispiel Traveler-Salesman-Problem" tragen wird.
 
 Ich schätze das Ziel als sehr ambitioniert ein und denke, dass die verbleibenden acht Monate nicht ausreichen werden, allerdings irre ich mich auch gerne. 
 
