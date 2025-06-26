@@ -74,7 +74,7 @@ Heute habe ich das Programmieren mit Python trainiert und einen Datensatz auf an
 Der heutige Tag stimmt mich traurig, da mein Vorgesetzter nicht zufrieden mit mir ist und das Gefühl hat, so habe ich es zumindest verstanden, dass ich nicht genügend Interesse für Informatik mitbringe. Das ist für mich unverständlich. 
 
 # Wochenende (22.06.2025):
-  - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
+  - Fahrplan nach " 1, 2, 3 Daily" angepasst
 
 Fahrplan nochmals angepasst mit klarem Ziel: Quantenalgorithmen in der Logistik zum Einsatz bringen. Der Weg dorthin wird im Dreiklang (1,2,3 Daily) von Quanteninformatik, Daten und Prozesse begleitet und harmoniert perfekt mit 
 dem Fach des Daten- und Prozessanalysten. Der Höhepunkt wird das Projekt sein, welches den Titel "Hybride Optimierung von Logistikrouten: Quantenalgorithmen (QAOA) vs. klassische Methoden am Beispiel Traveler-Salesman-Problem" tragen wird.
@@ -152,6 +152,13 @@ Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich vers
         Angeblich gibt es Versionsinkompatibilitäten zwischen qiskit, Matplotlb und Numpy. Viel zu lange probiere ich mehrere Versionen aus durch deinstallieren und installieren. 
         Ich kann zwar Quantenalgorithmen anwenden, allerdings nicht visualisieren. 
 
+
+# Tag 16 (26.06.2025(:
+	- Einführung duch Kai in obsidian
+	- Verknüpfen der Markdowndateien
+	- Erstellung von To-Do-Liste in im Markdwonformat
+
+Heute habe ich Obsidian kennen und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
 
 
 

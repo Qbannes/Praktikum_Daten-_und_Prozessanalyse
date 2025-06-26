@@ -120,19 +120,20 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Matrixoperationen
     * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
         Erklärung in Youtube angeschaut
-
+[[LERNTAGEBUCH#Tag 11 (19.06.2025)]]		
 # Tag 12 (20.06.2025):
   - Python: Pandas -> Scatterplotts und Korrelationen
             Numpy Arrays
             Training -> Funktionen schreiben
-
+[[LERNTAGEBUCH#Tag 12 (20.06.2025)]]
 # Wochenende (22.06.2025):
-  - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch)
+  - Fahrplan nach " 1, 2, 3 Daily" angepasst (mehr im Lerntagebuch) [[LERNTAGEBUCH#Wochenende (22.06.2025)]]
 
 # Tag 13 (23.06.2025):
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
   - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
+[[LERNTAGEBUCH#Tag 13 (23.06.2025)]]
 
   # Tag 14 (24.06.2025):
   - Buch: Learn Quanten Computing with Python (Seite 1-16)
@@ -146,8 +147,20 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
     * Digitaler Zwilling -> Internetrecherche und [Youtube] (https://www.youtube.com/watch?v=y0ZxE7hYf8w)
     * ActiveDB (Firma bill-x) [Youtube] (https://www.youtube.com/watch?v=Xt0SS7YRV3k)
                               [Youtube] (https://www.youtube.com/watch?v=bPzMwLKSOaA)
-
+[[LERNTAGEBUCH#Tag 14 (24.06.2025)]]
 # Tag 15 (25.06.2025):
   - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
     * Versuch Code zum Laufen zu bringen gescheitert
   - Qiskit: Versuch in Qiskit algorithmen zu starten und zu visualisieren gescheitert
+  [[LERNTAGEBUCH#Tag 15 (25.06.2025)]]
+
+
+# Tag 16 (26.06.2025(:
+	- Einführung duch Kai in obsidian
+	- Verknüpfen der Markdowndateien
+	- Erstellung von To-Do-Liste in im Markdwonformat (- [ ] To-Do-Nr. 1)
+- [x] To-Do-Nr. 1
+
+[[LERNTAGEBUCH#Tag 16 (26.06.2025(]]
+
+
