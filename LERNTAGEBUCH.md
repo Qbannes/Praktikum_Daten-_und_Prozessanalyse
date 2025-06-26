@@ -165,9 +165,8 @@ Heute habe ich Obsidian kennen- und gleich schätzen gelernt. Die Möglichkeiten
 
 Auf der Microsoft Quantum-Coding-Seite (https://quantum.microsoft.com/en-us/tools/quantum-coding) lassen sich die Quantenalgorithmen ausprobieren in Q# ausprobieren und werden gleich geplottet. Erste Algorithmen, wie den (echten) Zufallsalgorithmus, Bell-Zustand (Verschränkung) und Deutsch-Jozsa-Algorithmus habe ich getestet und in meiner Wissensseite [[Quantenalgorithmen Q Sharp]] diese näher erläutert. Ich hatte mich bisher sehr schwer getan, aber **allein anhand des Codes konnte man die Algorithmen auf Anhieb verstehen**. 
 
-- [ ] Es gibt Probleme mit der Vorschau in Github. Plaintext von mathematischen Formeln wird von Github Preview mal als Formel dargestellt und mal nicht. Ich finde bisher keine Lösung
-	(https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Q%23/Quantenalgorithmen%20Q%20Sharp.md)
-
+## Problem Github und Anzeigen von Plaintext: 
+[[Quests#1. Es gibt Probleme mit der Vorschau in Github. Plaintext von mathematischen Formeln wird von Github Preview mal als Formel dargestellt und mal nicht. Ich finde bisher keine Lösung]]
 
 
 
