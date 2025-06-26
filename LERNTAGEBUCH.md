@@ -161,9 +161,13 @@ Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich vers
 		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
 	- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]]
 
-Heute habe ich Obsidian kennen und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
+Heute habe ich Obsidian kennen- und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
 
 Auf der Microsoft Quantum-Coding-Seite (https://quantum.microsoft.com/en-us/tools/quantum-coding) lassen sich die Quantenalgorithmen ausprobieren in Q# ausprobieren und werden gleich geplottet. Erste Algorithmen, wie den (echten) Zufallsalgorithmus, Bell-Zustand (Verschränkung) und Deutsch-Jozsa-Algorithmus habe ich getestet und in meiner Wissensseite [[Quantenalgorithmen Q Sharp]] diese näher erläutert. Ich hatte mich bisher sehr schwer getan, aber **allein anhand des Codes konnte man die Algorithmen auf Anhieb verstehen**. 
+
+- [ ] Es gibt Probleme mit der Vorschau in Github. Plaintext von mathematischen Formeln wird von Github Preview mal als Formel dargestellt und mal nicht. Ich finde bisher keine Lösung
+	(https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Q%23/Quantenalgorithmen%20Q%20Sharp.md)
+
 
 
 
