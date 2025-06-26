@@ -33,6 +33,7 @@ namespace QuantumRandom {
 		Hadamard-Gate (H): Es erzeugt die Superposition aus |0〉
 		
 		$$ H = \frac{1}{\sqrt{2}} \begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix} $$
+		$$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
 # Bell-Zustand (Verschränkung)
 
 namespace BellState {
