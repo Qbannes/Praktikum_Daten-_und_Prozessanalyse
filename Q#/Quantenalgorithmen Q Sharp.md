@@ -1,5 +1,8 @@
 In diesem Kapitel werden die Quantenalgorithmen in Q# gezeigt und anschließend der Code erläutert. Weiter wird liegen mathematische Ausdrücke sowie das jeweilige Quantengatter bei.
 
+Zu den Codes:
+
+**open Microsoft.Quantum.Intrinsic;** macht alle Funnktionen, die in Microsoft.Quantum.Intrinsic bereitgestellt werden für die Verwendung in einem Q#-Notebook oder einer Quelldatei verfügbar, ohne dass ihre vollständigen Namen angegeben werden müssen.
 
 # Quanten-Zufallszahl (0 oder 1)
 
