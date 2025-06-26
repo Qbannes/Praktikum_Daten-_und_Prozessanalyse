@@ -25,6 +25,7 @@ namespace QuantumRandom {
 - Dann bringen wir das Qubit mittels Hadamard-Gate in Superposition (0 und1)
 	- H(qubit) wendet das **Hadamard-Gate (H)** an:
 	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
 	- Das Qubit ist jetzt in einer 50/50-Superposition von |0〉 und |1〉
 	- Mit M(qubit) leiten wir den Messvorgang, was die Superposition unverzüglich kollabieren lässt und dich das Qubit für 0 oder 1 entscheidet. Man stelle sich dazu einen Münzwurf vor, die nach dem Wurf in der Hand gefangen wird und beim Öffnen (Messen) ihren Zustand 0 oder 1 preisgibt.
 	- Mit Reset(qubit) setzen wir das Qubit auf 0, da es für die Quantenhardware nötig ist.
