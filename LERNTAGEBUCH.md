@@ -154,17 +154,25 @@ Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich vers
 
 
 # Tag 16 (26.06.2025):
-	- Einführung duch Kai in obsidian
-	- Verknüpfen der Markdowndateien
-	- Erstellung von To-Do-Liste in im Markdwonformat
-	- Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
-		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
-	- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]]
+
+- Einführung durch Kai in Obsidian
+- Verknüpfen der Markdowndateien
+- Erstellung von To-Do-Liste (Quests.md)
+	- Latex Plugin für Obsidian (Zeigt unter anderen Formeln in Obsidian an aus Plaintext)
+		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc) 
+	- Quantenalgorithmen programmiert und in eigener Markdown verständlich erklärt
+[[Quantenalgorithmen Q Sharp]]
+	- Erlaubnis erhalten von www.nobocham.de für Download von Koordinaten
 
 Heute habe ich Obsidian kennen- und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
 
 Auf der Microsoft Quantum-Coding-Seite (https://quantum.microsoft.com/en-us/tools/quantum-coding) lassen sich die Quantenalgorithmen ausprobieren in Q# ausprobieren und werden gleich geplottet. Erste Algorithmen, wie den (echten) Zufallsalgorithmus, Bell-Zustand (Verschränkung) und Deutsch-Jozsa-Algorithmus habe ich getestet und in meiner Wissensseite [[Quantenalgorithmen Q Sharp]] diese näher erläutert. Ich hatte mich bisher sehr schwer getan, aber **allein anhand des Codes konnte man die Algorithmen auf Anhieb verstehen**. 
 
+Allein der Zufallsalgorithmus könnte in wichtigen Bereichen, wie der Kryptografie eingesetzt werden. Es könnten Echte Zufallsschlüsselgeneriert werden. Eine Rückrechnung wäre dann nicht mehr möglich. 
+Überall im Bereich KI, wo es Psyeudozufallsalgorithmen gibt oder z.B. in der Wirtschaft (Monte-Carlo-Simulationen).
+
+Die Koordinaten von Hauptstädten weltweit
+ darf ich nun offiziell runterladen nach einer Anfrage vom 23.06.2025 und für die Datenanalyse nutzen.
 ## Problem Github und Anzeigen von Plaintext: 
 [[Quests#1. Es gibt Probleme mit der Vorschau in Github. Plaintext von mathematischen Formeln wird von Github Preview mal als Formel dargestellt und mal nicht. Ich finde bisher keine Lösung]]
 

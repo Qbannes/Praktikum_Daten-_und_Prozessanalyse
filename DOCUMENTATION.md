@@ -133,6 +133,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   - Quantenmechanik zum Anfassen [Youtube](https://www.youtube.com/watch?v=LaGPEWb1VFk)
     * Quantengatter
   - Daten: Distanzmatrix in Python, Daten beschaffen, in Python einlesen und Berechnungen durchgeführt
+  - Anfrage zu Koordinaten Hauptstädte weltweit für WebScraping und Datenanalyse (https://www.nobochamp.de/hauptstaedte.html)
 [[LERNTAGEBUCH#Tag 13 (23.06.2025)]]
 
   # Tag 14 (24.06.2025):
@@ -155,13 +156,14 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
   [[LERNTAGEBUCH#Tag 15 (25.06.2025)]]
 
 
-# Tag 16 (26.06.2025(:
-	- Einführung duch Kai in obsidian
-	- Verknüpfen der Markdowndateien
-	- Erstellung von To-Do-Liste in im Markdwonformat (- [ ] To-Do-Nr. 1)
-	- Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
-		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
-	- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]] 
+# Tag 16 (26.06.2025):
+- Einführung duch Kai in obsidian
+- Verknüpfen der Markdowndateien
+- Erstellung von To-Do-Liste in im Markdwonformat (- [ ] To-Do-Nr. 1)
+- Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
+	* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
+- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]] 
+- Erlaubnis erhalten von www.nobocham.de für Download von Koordinaten
 [[LERNTAGEBUCH#Tag 16 (26.06.2025(]]
 
 
