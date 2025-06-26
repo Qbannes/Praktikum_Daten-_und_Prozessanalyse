@@ -32,11 +32,7 @@ namespace QuantumRandom {
 	- Quantengatter:
 		Hadamard-Gate (H): Es erzeugt die Superposition aus |0〉
 		
-<<<<<<< HEAD
 	- $$ H = \frac{1}{\sqrt{2}} \begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix} $$
-=======
-		- $$ H = \frac{1}{\sqrt{2}} \begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix} $$
->>>>>>> origin/main
 
 # Bell-Zustand (Verschränkung)
 
