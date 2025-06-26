@@ -153,12 +153,19 @@ Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich vers
         Ich kann zwar Quantenalgorithmen anwenden, allerdings nicht visualisieren. 
 
 
-# Tag 16 (26.06.2025(:
+# Tag 16 (26.06.2025):
 	- Einführung duch Kai in obsidian
 	- Verknüpfen der Markdowndateien
 	- Erstellung von To-Do-Liste in im Markdwonformat
+	- Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
+		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
+	- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]]
 
 Heute habe ich Obsidian kennen und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
+
+Auf der Microsoft Quantum-Coding-Seite (https://quantum.microsoft.com/en-us/tools/quantum-coding) lassen sich die Quantenalgorithmen ausprobieren in Q# ausprobieren und werden gleich geplottet. Erste Algorithmen, wie den (echten) Zufallsalgorithmus, Bell-Zustand (Verschränkung) und Deutsch-Jozsa-Algorithmus habe ich getestet und in meiner Wissensseite [[Quantenalgorithmen Q Sharp]] diese näher erläutert. Ich hatte mich bisher sehr schwer getan, aber **allein anhand des Codes konnte man die Algorithmen auf Anhieb verstehen**. 
+
+
 
 
 

@@ -159,7 +159,8 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 	- Einführung duch Kai in obsidian
 	- Verknüpfen der Markdowndateien
 	- Erstellung von To-Do-Liste in im Markdwonformat (- [ ] To-Do-Nr. 1)
-- [x] To-Do-Nr. 1
+	- Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
+		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
 
 [[LERNTAGEBUCH#Tag 16 (26.06.2025(]]
 
