@@ -1,0 +1,32 @@
+
+- H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+	- H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+- - H(qubit) wendet das **Hadamard-Gate (H)** an:
+	- $$ H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}} $$
+	- 

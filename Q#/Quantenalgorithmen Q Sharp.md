@@ -57,7 +57,7 @@ namespace BellState {
 - Hier lassen wir als nächstes beide Qubits das CNOT-Gate passieren mit **CNOT(q1, q2);**
 	- $$ \text{CNOT}\left(\frac{|00\rangle + |10\rangle}{\sqrt{2}}\right) =$$
 	- und die beiden Qubits befinden sich nun im Bell-Zustand: $$= \frac{|00\rangle + |11\rangle}{\sqrt{2}} $$
-- Jetzt messen wir wieder unseren Münzwurf, aber dieses Mal mit **zwei** Münzen gleichzeitig und erhalten beim Öffnen der Hand (Messung) bei beiden Qubits immer |0〉 oder |1〉 aufgrund der Verschränkung. Beide Qubits stehen somit immer in Korrelation: $$ P(00) = \frac{1}{2}, \quad P(11) = \frac{1}{2} $$
+- Jetzt messen wir wieder unseren Münzwurf, aber dieses Mal mit **zwei** Münzen gleichzeitig und erhalten beim Öffnen der Hand (Messung) bei beiden Qubits immer |0〉 oder |1〉 aufgrund der Verschränkung (Ergebnisse sind immer gleich!). Beide Qubits stehen somit immer in Korrelation: $$ P(00) = \frac{1}{2}, \quad P(11) = \frac{1}{2} $$
 
 - Quantengatter (CNOT):   
 -  *Wenn das Kontrollqubit (q1) |1〉 ist, dann flippt das Zielqubit (q2) immer*
