@@ -164,6 +164,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 	* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
 - Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]] 
 - Erlaubnis erhalten von www.nobocham.de für Download von Koordinaten
-[[LERNTAGEBUCH#Tag 16 (26.06.2025(]]
+[[LERNTAGEBUCH#Tag 16 (26.06.2025)]]
 
 
+# Tag 17 (27.06.2025):

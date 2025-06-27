@@ -91,3 +91,6 @@ namespace Deutsch {
     }
 }
 
+
+
+$$H|0\rangle = \frac{|0\rangle + |1\rangle}{\sqrt{2}}$$

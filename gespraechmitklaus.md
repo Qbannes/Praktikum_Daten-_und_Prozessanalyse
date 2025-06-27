@@ -17,4 +17,7 @@
 - 2 wöchigen Fahrplan für Praktikanten ab 30.06.2025, Arbeitsplatz einrichten, gemeinsam an
   Quantencomputing arbeiten
 
-  
+# 27.06.2025
+- Mit dem Praktikanten in Qiskit und Q# programmieren
+- 3 Tage austauschen
+- Anwendunsfälle bearbeiten (Kamera Bilderkennung), Wahrsagerwürfel?
