@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTATION.md",
+                "file": "gespraechmitklaus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOCUMENTATION"
+              "title": "gespraechmitklaus"
             }
           }
         ],
@@ -252,11 +252,12 @@
   },
   "active": "2105fc21a11b5651",
   "lastOpenFiles": [
+    "DOCUMENTATION.md",
+    "fahrplan_praktikant.md",
     "Python/Statistik/hauptstaedte_koordinaten.csv",
     "gespraechmitklaus.md",
     "Q#/Quantenalgorithmen Q Sharp.md",
     "LERNTAGEBUCH.md",
-    "DOCUMENTATION.md",
     "Quests.md",
     "Willkommen.md",
     "Testdoku.md",
