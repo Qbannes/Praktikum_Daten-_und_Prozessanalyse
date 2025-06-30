@@ -168,3 +168,4 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 
 # Tag 17 (27.06.2025):
+Einführung des Praktikanten
