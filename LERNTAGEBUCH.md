@@ -176,10 +176,34 @@ Die Koordinaten von Hauptstädten weltweit
 ## Problem Github und Anzeigen von Plaintext: 
 [[Quests#1. Es gibt Probleme mit der Vorschau in Github. Plaintext von mathematischen Formeln wird von Github Preview mal als Formel dargestellt und mal nicht. Ich finde bisher keine Lösung]]
 
+# Tag 17 (27.06.2025):
+- Quanten: Quantum IBM Composer (https://quantum.ibm.com/composer/files/4cccdbc18766adc14b8a6e4c77856e529ee24663b69dbccc3de528db3d4be757)
+Allerdings benötigt man einen Account, den Schaltkreis zu testen. 
+- Webscraping der Koordinaten von www.nobocham.de
+- Berechnung der Entfernungsmatrix in Jupyter
 
+Mit dem Quantum Composer von IBM kann man sich eigene Schaltkreise zusammenstellen. Darin gibt es reichlich Einstellungsmöglichkeiten und Gatter. Nur leider ist für das Ausführen 
+ein Account nötig, der für eine gewisse Zeit kostenlos ist.
+[[DOCUMENTATION#Tag 17 (27.06.2025)]]
+## To-Do
+- Hierzu befrage ich Klaus, ob ich einen Zugriff bekommen kann
+[[Quests]]
 
+# Tag 18 (27.06.2025):
+- Einrichtung Arbeitsplatz des Praktikanten.
+- Planung und Ziele mit ihm besprochen. Ziel ist ein Miniprojekt in dem
+wir Zufallsalgorithmen der klassischen Computer mit den Quantencopmputern
+vergleichen.
+- Einrichtung eines gemeinsamen Repostory mit dem Prakitkanten.
+- Rundgang und Begrüßung der Kollegen im Betrieb.
 
+Jonas der Praktikant bringt Programmierkenntnisse in Java mit und sein Lieblingsfach nach Informatik ist Mathematik. Ideal für mein Vorhaben, in Ihn Quantencomputing zu involvieren.
+Jonas bekommt von mir einige Grundlagen in Python und Aufgaben für seinen ersten Tag. Weiter durfte er sich am Vormittag schon mit Lektüre über Quantencomputing einlesen. 
+Gemeinsam führen wir ein Repository, welches er später nach seinem Praktikum unter anderem als Referenz nutzen kann. Ich freue mich auf die Arbeit mit ihm. Das miteinander ist von gegenseitigem Respekt erfüllt. 
 
+Derweil Jonas sich an den Aufgaben versucht richte ich nebenher noch das gemeinsame Repository ein, erstelle bzw. stelle Aufgaben bereit für ihn, die uns später in gewissen Teilen ins gemeinsame Projekt, welches für die zweite Woche angesetzt ist, begleiten. 
 
+Mein Ziel ist nicht nur das Projekt, sondern auch, dass er auch einen Einblick in den Beruf des Fachinformatikers für Daten- und Prozessanalyse bekommt und sieht, dass QC und Daten- und Prozessanalyse sehr stark miteinander korrelieren.
+[[DOCUMENTATION#Tag 18 (27.06.2025)]] 
 
 

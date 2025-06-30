@@ -168,4 +168,18 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 
 
 # Tag 17 (27.06.2025):
-Einführung des Praktikanten
+- Quanten: Quantum IBM Composer (https://quantum.ibm.com/composer/files/4cccdbc18766adc14b8a6e4c77856e529ee24663b69dbccc3de528db3d4be757)
+Allerdings benötigt man einen Account, den Schaltkreis zu testen. 
+- Webscraping der Koordinaten von www.nobocham.de
+- Berechnung der Entfernungsmatrix in Jupyter
+
+
+# Tag 18 (27.06.2025):
+- Einrichtung Arbeitsplatz des Praktikanten.
+- Planung und Ziele mit ihm besprochen. Ziel ist ein Miniprojekt in dem
+wir Zufallsalgorithmen der klassischen Computer mit den Quantencopmputern
+vergleichen.
+- Einrichtung eines gemeinsamen Repostiories mit dem Prakitkanten.
+- Rundgang und Begrüßung der Kollegen im Betrieb.
+
+[[LERNTAGEBUCH#Tag 18 (27.06.2025)]]  
