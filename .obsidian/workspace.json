@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LERNTAGEBUCH.md",
+                "file": "DOCUMENTATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LERNTAGEBUCH"
+              "title": "DOCUMENTATION"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests.md",
+                "file": "LERNTAGEBUCH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quests"
+              "title": "LERNTAGEBUCH"
             }
           }
         ],
@@ -212,8 +212,8 @@
   "lastOpenFiles": [
     "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
-    "Q#/Quantenalgorithmen Q Sharp.md",
     "Quests.md",
+    "Q#/Quantenalgorithmen Q Sharp.md",
     "fahrplan_praktikant.md",
     "gespraechmitklaus.md",
     "Python/Statistik/hauptstaedte_koordinaten.csv",

@@ -200,7 +200,8 @@ vergleichen.
 		CNOT-Gatter
 - Funktionalität von Quantum Composer ergründen
 	- [Youtube](https://www.youtube.com/watch?v=j1NFdDx2tIQ) 
-Arbeit mit Jonas an den Aufgaben Datenverarbeitung und Visualisierung
-Einrichtung Account bei IBM für Open Plan (10 Minuten pro Monat)
-
+- Arbeit mit Jonas an den Aufgaben Datenverarbeitung und Visualisierung
+- Einrichtung Account bei IBM für Open Plan (10 Minuten pro Monat)
+- Planung morgiger Tag: Einrichtung Jupyter Lab Collboration
 [[LERNTAGEBUCH#Tag 19 (01.07.2025)]]  
+

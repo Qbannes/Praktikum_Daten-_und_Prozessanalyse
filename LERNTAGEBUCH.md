@@ -227,10 +227,12 @@ Mein Ziel ist nicht nur das Projekt, sondern auch, dass er auch einen Einblick i
 - Datenverarbeitung in Jupyter Notebook:
 	- Daten aus CSV einlesen, visualisieren und als Bild speichern
 	- Fehlererkennung im Code: Symantische, logische und Syntaxfehler
-
+- Arbeit mit Jonas an den Aufgaben Datenverarbeitung und Visualisierung
+- Einrichtung Account bei IBM für Open Plan (10 Minuten pro Monat)
+- Planung morgiger Tag: Einrichtung Jupyter Lab Collboration
 
 Der heutige Tag geht zeitlich sehr in die Vorbereitung der Aufgaben, die ich dem Praktikanten bereitstelle. Allerdings festigt es auch meine Kenntnisse in den Themen selbst.  Weiter betreue 
-ich Jonas, wobei er keine wirkliche Betreuung benötigt und selbstständig ist. Dinge, die er nicht weiß schlägt er einfach nach. Bisher hat er keine Fragen gestellt und die Aufgaben zu meiner vollsten Zufriedenheit gelöst. Wie er die Aufgaben löst, ist ihm freigestellt. 
+ich Jonas, wobei er keine wirkliche Betreuung benötigt und selbstständig lernt. Dinge, die er nicht weiß schlägt er einfach nach. Bisher hat er keine Fragen gestellt und die Aufgaben zu meiner vollsten Zufriedenheit gelöst. Wie er die Aufgaben löst, ist ihm freigestellt. 
 
 Am Nachmittag arbeiteten wir gemeinsam an Aufgaben, die ich ihm gestellt habe. Thema: Datenverarbeitung und Visualisierung mit Jupyter Notebook. 
 
