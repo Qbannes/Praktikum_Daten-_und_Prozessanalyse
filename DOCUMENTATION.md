@@ -174,7 +174,7 @@ Allerdings benötigt man einen Account, den Schaltkreis zu testen.
 - Berechnung der Entfernungsmatrix in Jupyter
 
 
-# Tag 18 (27.06.2025):
+# Tag 18 (30.06.2025):
 - Einrichtung Arbeitsplatz des Praktikanten.
 - Planung und Ziele mit ihm besprochen. Ziel ist ein Miniprojekt in dem
 wir Zufallsalgorithmen der klassischen Computer mit den Quantencopmputern
@@ -183,3 +183,24 @@ vergleichen.
 - Rundgang und Begrüßung der Kollegen im Betrieb.
 
 [[LERNTAGEBUCH#Tag 18 (27.06.2025)]]  
+
+# Tag 19 (01.07.2025):
+- Vorbereiten und Bereitstellen von Aufgaben für Jonas
+	- https://sync.academiccloud.de/index.php/apps/files/?dir=/Praktikum%20Iniationware&fileid=645522706
+	  Hier sind Literatur und Aufgaben gelistet
+	- Tagesaufgabe für Jonas in Qunatencomputing und Datenverarbeitung:
+	- Aus dem Buch oder via Internetrecherche
+		Deutsch-Josza-Algorithmus
+		Grover-Algorithmus
+		Shor-Algrthmus
+
+		Schaltkreise (Wie beeinflussen Gatter die Qubits?)
+		Hadamard-Gatter
+		X-Gatter 
+		CNOT-Gatter
+- Funktionalität von Quantum Composer ergründen
+	- [Youtube](https://www.youtube.com/watch?v=j1NFdDx2tIQ) 
+Arbeit mit Jonas an den Aufgaben Datenverarbeitung und Visualisierung
+Einrichtung Account bei IBM für Open Plan (10 Minuten pro Monat)
+
+[[LERNTAGEBUCH#Tag 19 (01.07.2025)]]  

@@ -189,7 +189,7 @@ ein Account nötig, der für eine gewisse Zeit kostenlos ist.
 - Hierzu befrage ich Klaus, ob ich einen Zugriff bekommen kann
 [[Quests]]
 
-# Tag 18 (27.06.2025):
+# Tag 18 (30.06.2025):
 - Einrichtung Arbeitsplatz des Praktikanten.
 - Planung und Ziele mit ihm besprochen. Ziel ist ein Miniprojekt in dem
 wir Zufallsalgorithmen der klassischen Computer mit den Quantencopmputern
@@ -201,9 +201,39 @@ Jonas der Praktikant bringt Programmierkenntnisse in Java mit und sein Lieblings
 Jonas bekommt von mir einige Grundlagen in Python und Aufgaben für seinen ersten Tag. Weiter durfte er sich am Vormittag schon mit Lektüre über Quantencomputing einlesen. 
 Gemeinsam führen wir ein Repository, welches er später nach seinem Praktikum unter anderem als Referenz nutzen kann. Ich freue mich auf die Arbeit mit ihm. Das miteinander ist von gegenseitigem Respekt erfüllt. 
 
-Derweil Jonas sich an den Aufgaben versucht richte ich nebenher noch das gemeinsame Repository ein, erstelle bzw. stelle Aufgaben bereit für ihn, die uns später in gewissen Teilen ins gemeinsame Projekt, welches für die zweite Woche angesetzt ist, begleiten. 
+Derweil Jonas sich an den Aufgaben versucht, richte ich nebenher noch das gemeinsame Repository ein, erstelle bzw. stelle Aufgaben bereit für ihn, die uns später in gewissen Teilen ins gemeinsame Projekt, welches für die zweite Woche angesetzt ist, begleiten. 
 
 Mein Ziel ist nicht nur das Projekt, sondern auch, dass er auch einen Einblick in den Beruf des Fachinformatikers für Daten- und Prozessanalyse bekommt und sieht, dass QC und Daten- und Prozessanalyse sehr stark miteinander korrelieren.
 [[DOCUMENTATION#Tag 18 (27.06.2025)]] 
+
+
+# Tag 19 (01.07.2025):
+- Vorbereiten und Bereitstellen von Aufgaben für Jonas
+	- https://sync.academiccloud.de/index.php/apps/files/?dir=/Praktikum%20Iniationware&fileid=645522706
+	  Hier sind Literatur und Aufgaben gelistet
+	- Tagesaufgabe für Jonas in Qunatencomputing und Datenverarbeitung:
+	- Aus dem Buch oder via Internetrecherche
+		Deutsch-Josza-Algorithmus
+		Grover-Algorithmus
+		Shor-Algrthmus
+
+		Schaltkreise (Wie beeinflussen Gatter die Qubits?)
+		Hadamard-Gatter
+		X-Gatter 
+		CNOT-Gatter
+- Funktionalität von Quantum Composer ergründen
+	- [Youtube](https://www.youtube.com/watch?v=j1NFdDx2tIQ) 
+
+- Datenverarbeitung in Jupyter Notebook:
+	- Daten aus CSV einlesen, visualisieren und als Bild speichern
+	- Fehlererkennung im Code: Symantische, logische und Syntaxfehler
+
+
+Der heutige Tag geht zeitlich sehr in die Vorbereitung der Aufgaben, die ich dem Praktikanten bereitstelle. Allerdings festigt es auch meine Kenntnisse in den Themen selbst.  Weiter betreue 
+ich Jonas, wobei er keine wirkliche Betreuung benötigt und selbstständig ist. Dinge, die er nicht weiß schlägt er einfach nach. Bisher hat er keine Fragen gestellt und die Aufgaben zu meiner vollsten Zufriedenheit gelöst. Wie er die Aufgaben löst, ist ihm freigestellt. 
+
+Am Nachmittag arbeiteten wir gemeinsam an Aufgaben, die ich ihm gestellt habe. Thema: Datenverarbeitung und Visualisierung mit Jupyter Notebook. 
+
+[[DOCUMENTATION#Tag 19 (01.07.2025)]] 
 
 
