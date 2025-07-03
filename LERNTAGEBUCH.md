@@ -259,8 +259,22 @@ Natürlich konnte mir keiner helfen, aber man ist umso glücklicher, wenn man es
 [[DOCUMENTATION#Tag 20 (02.07.2025)]] 
 
 # Tag 21 (03.07.2025):
-- Juan:
+- Juan: Mit Jonas Qiskit Einführung in Jupyter Notebook gemacht
+	- Simulation von diversen Schaltkreisen mit einem, zwei und mehr Qubits
+	- Aufgaben vorbereitet: 
+	- Neuronale Netzwerke - Neuronenales Netz erstellen mit Test- und Lerndaten füttern, Ergebnisse Auswerten
+	- 
+	 Vorbereitung in Jupyter Notebook auf echte Quantenhardware
+- Jonas: Introduction to Qiskit by IBM in Jupyter Notebook
+	- Neuronale Netzwerke in Python
 
+Die Einführung in Qiskit bei IBM war auf Englisch. Glücklicherweise kann Jonas sehr gut englisch verstehen und er mir bei einigen Stellen ausgeholfen hat. Wir haben Qiskit insoweit vorbereitet, dass wir nächste Woche zum Projekt zusammen den Zufallsalgorithmus auf einem echten Quantencomputer laufen lassen können. Wir sind somit einen bedeutenden Schritt weiter.
 
+Jonas interessiert sich auch für maschinelles Lernen und hat Aufgaben von mir bekommen an denen er heute ein wenig zu beißen hatte. Wir haben einige Hürden zusammen gelöst und er wird morgen noch weiter daran arbeiten. Er erstellt ein neuronales Netzwerk (NN) in Python und soll es morgen trainieren mit Trainingsdaten und eine Besonderheit beim Maschinellen Lernen feststellen, nämlich wie das Delta Präzision des NN im Verhältnis zur Häufigkeit der Durchgänge von Trainingsdaten verhält. Er wird feststellen, umso öfter er das Netzwerk über die Traningsdaten laufen lässt, umso besser wird die Präzision bis zu einem gewissen Punkt allerdings nur.
 
-- Jonas: Introduction to Qiskit by IBM
+Zu Jonas: Jonas Leistungen sind beachtlich. Er arbeitet so gut wie allein. Er braucht keine Hilfe, um
+Fortschritte zu erzielen. Hier und da habe ich ihm ausgeholfen, aber mit der Zeit hätte er es auch selbst herausgefunden. Er ist frei im Bearbeiten der Aufgaben. Er schlägt oft auf Webseiten nach oder nutzt die ihm zur Verfügung stehende Literatur. 
+Er ist ein sehr ruhiger und in sich gekehrter junger Mann. Er arbeitet sehr viel und vergisst oder will vielleicht auch keine Pause machen, zumindest heute erscheint es mir so. Ihm scheint es hier zu gefallen. Auf jeden Fall liegt ihm Informatik, Physik und Mathematik. 
+Weiter ist mir aufgefallen, dass er fast zu ruhig ist. Das Reden mit ihm führt nie zu Gesprächen. Er antwortet atomar. Auch bekommt er manchmal den Mund nicht auf, als redet er in sich hinein, wo man, weil man ihn nicht versteht, nachfragen muss, was er denn gesagt hat. Sein Arbeitstempo ist moderat. Ich weiß von Menschen mit ähnlichen Zügen wie seinen, dass diese mit Stress nicht umgehen können, gerade wenn es darum geht Termine einzuhalten. Inwieweit, das Einfluss auf seine Karriere haben könnte, mag ich nicht zu beurteilen. 
+
+Wenn wir das Projekt beendet haben, wird vielleicht noch etwas Zeit bleiben weiter in Quantencomputing zu kommen. Für mich steht aber an erster Stelle sein Projekt mit dem er etwas in der Tasche hat und ihm Quantencomputing näher gebracht zu haben, damit, wenn er sich für die Informatik entscheidet, wieder zu uns zurückkehrt und mit uns in Quantencomputing voll durchstartet. 
