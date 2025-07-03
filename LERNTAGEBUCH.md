@@ -209,8 +209,6 @@ Mein Ziel ist nicht nur das Projekt, sondern auch, dass er auch einen Einblick i
 
 # Tag 19 (01.07.2025):
 - Vorbereiten und Bereitstellen von Aufgaben für Jonas
-	- https://sync.academiccloud.de/index.php/apps/files/?dir=/Praktikum%20Iniationware&fileid=645522706
-	  Hier sind Literatur und Aufgaben gelistet
 	- Tagesaufgabe für Jonas in Qunatencomputing und Datenverarbeitung:
 	- Aus dem Buch oder via Internetrecherche
 		Deutsch-Josza-Algorithmus
@@ -239,3 +237,30 @@ Am Nachmittag arbeiteten wir gemeinsam an Aufgaben, die ich ihm gestellt habe. T
 [[DOCUMENTATION#Tag 19 (01.07.2025)]] 
 
 
+# Tag 20 (02.07.2025):
+- Juan: 
+	- IBM Account eingerichtet und erste Instanz erstellt (noch nicht genutzt)
+		- 20 Minuten 0€/mon., Nur Rechenzeit wird abgezogen
+		- Kreditkarte hinterlegt
+	- Betreuung Jonas, 
+	- Vorbereitung Aufgaben für Jonas (Sortieralgorithmen in Python)
+	- Einrichtung Jupyter Lab Collaboration aus Sicherheitsbedenken abgebrochen
+- Jonas:
+	- Quantenalgorithmen (Deutsch, Grover und Shor) verstehen, aufschreiben in eigenen   Worten, was er versteht
+	- Webscraping, Datenaufbereitung, Visualisierung, Einlesen, Speichern (Python)
+	- Fehlersuche in Python-Code (Syntax, Semantik, Logik)
+
+Jonas kommt sehr schnell voran. Ich gebe ihm unter anderem meist die Aufgaben, die wir für unser geplantes Miniprojekt brauchen werden. Ziel ist es ja den echten Zufall zu messen und diesen mit klassischen Zufallsalgorithmen zu vergleichen und statistisch auszuwerten. Er benötigt Kenntnisse in Python, Qiskit und Q# sowie den klassischen und Quantenalgorithmen. Das Projekt planen wir, nächste Woche, den 07.07.2025 zu beginnen. 
+
+Heute ist viel wieder viel Zeit ins Land gegangen für Fehlerbehebungen. Die Aufgabe in Webscraping konnte Jonas nicht erfüllen, weil die Webseite, von der ich zuvor eine schriftliche Genehmigung für den Download ihrer Daten (Koordinaten von Hauptstädten) eingeholt hatte, nicht auf unsere Requests durch Python geantwortet hatte. Nachdem mittlerweile noch 2 weitere Kolllegen in unser Problem involviert waren, konnte uns Kai immerhin eine html-Datei mit dem Programm Curl beschafft. Gedacht war, dass wir in Python uns den Text der Seite anezigen lass und die Daten dort rausziehen und weiterverarbeiten.
+
+Weiter fehlte plötzlich mein Notebook in Jupyter, welches ich im Browser laufen habe, was über Anaconda bereitgestellt wird.  Wo war es? Es war da, wurde aber nicht angezeigt, weil ich eine neuere Version von Jupyter installiert hatte (ver. 4.4.0), die nicht mit Notebook kompatibel war. 
+Natürlich konnte mir keiner helfen, aber man ist umso glücklicher, wenn man es doch allein hinbekommt das Problem aufzudecken. Nach unzähligen Versuchen irgendwie Kernel und Packages zu de- und zu reinstallieren, gab ich dann auch nach und habe Anaconda, welches Jupyter bereitstellt komplett vom Rechner gefegt und wieder neu installiert. Den Browsercache habe ich auch gleich gelöscht. Und Hura das Problem bestand immer noch, dass Jupyter mir kein Notebook angezeigt hatte. Probleme und oder Fehler zu finden kann viel Zeit in Anspruch nehmen. Es bedarf auch einer gewissen Beharrlichkeit nicht locker zu lassen und vor allem, nicht auszurasten Ò.ó
+[[DOCUMENTATION#Tag 20 (02.07.2025)]] 
+
+# Tag 21 (03.07.2025):
+- Juan:
+
+
+
+- Jonas: Introduction to Qiskit by IBM

@@ -185,9 +185,7 @@ vergleichen.
 [[LERNTAGEBUCH#Tag 18 (27.06.2025)]]  
 
 # Tag 19 (01.07.2025):
-- Vorbereiten und Bereitstellen von Aufgaben für Jonas
-	- https://sync.academiccloud.de/index.php/apps/files/?dir=/Praktikum%20Iniationware&fileid=645522706
-	  Hier sind Literatur und Aufgaben gelistet
+- Vorbereiten und Bereitstellen von Aufgaben für Jonas (Webscraping und Fehlersuche in Python)
 	- Tagesaufgabe für Jonas in Qunatencomputing und Datenverarbeitung:
 	- Aus dem Buch oder via Internetrecherche
 		Deutsch-Josza-Algorithmus
@@ -202,6 +200,28 @@ vergleichen.
 	- [Youtube](https://www.youtube.com/watch?v=j1NFdDx2tIQ) 
 - Arbeit mit Jonas an den Aufgaben Datenverarbeitung und Visualisierung
 - Einrichtung Account bei IBM für Open Plan (10 Minuten pro Monat)
-- Planung morgiger Tag: Einrichtung Jupyter Lab Collboration
+- Planung morgiger Tag: Einrichtung Jupyter Lab Collaboration
 [[LERNTAGEBUCH#Tag 19 (01.07.2025)]]  
 
+
+# Tag 20 (02.07.2025):
+- Juan: 
+	- IBM Account eingerichtet und erste Instanz erstellt (noch nicht genutzt)
+		- 20 Minuten 0€/mon., Nur Rechenzeit wird abgezogen
+		- Kreditkarte hinterlegt
+	- Betreuung Jonas, 
+	- Vorbereitung Aufgaben für Jonas (Sortieralgorithmen in Python)
+	- Einrichtung Jupyter Lab Collaboration aus Sicherheitsbedenken abgebrochen
+- Jonas:
+	- Quantenalgorithmen (Deutsch, Grover und Shor) verstehen, aufschreiben in eigenen   Worten, was er versteht
+	- Webscraping, Datenaufbereitung, Visualisierung, Einlesen, Speichern (Python)
+	- Fehlersuche in Python-Code (Syntax, Semantik, Logik)
+[[LERNTAGEBUCH#Tag 20 (02.07.2025)]] 
+
+
+# Tag 21 (03.07.2025):
+- Juan:
+
+
+
+- Jonas: Introduction to Qiskit by IBM
