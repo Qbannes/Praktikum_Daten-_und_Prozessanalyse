@@ -21,3 +21,4 @@
 - Mit dem Praktikanten in Qiskit und Q# programmieren
 - 3 Tage austauschen
 - Anwendunsfälle bearbeiten (Kamera Bilderkennung), Wahrsagerwürfel?
+

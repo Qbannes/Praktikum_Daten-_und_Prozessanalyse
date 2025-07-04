@@ -219,9 +219,11 @@ vergleichen.
 [[LERNTAGEBUCH#Tag 20 (02.07.2025)]] 
 
 
-# Tag 21 (03.07.2025):
-- Juan:
+# Tag 22 (04.07.2025):
 
-
-
-- Jonas: Introduction to Qiskit by IBM
+- Testen des Spiels SQL Spiels: Maja & Sophie
+- Pflege und Korrektur meiner Obsidian-Vault:
+	- Wissensdatenbankerweiterung: [[Python - Funktionen]] 
+- Lineare Algebra: Mengen [[Lineare Algebra#Mengennotation]]  
+- Jonas Tagesaufgabe: Alles gelernte der Woche nochmal kurz zu überfliegen,  Einführung in SQL mittels bereitgestellter Materialien und Lernspiel https://sql-island.informatik.uni-kl.de/
+[[LERNTAGEBUCH#Tag 22 (04.07.2025)]] 

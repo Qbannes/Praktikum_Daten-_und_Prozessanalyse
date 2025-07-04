@@ -40,21 +40,21 @@
     * Beispiele für O-Notationen (O[1], O[log n], O[n], O[n²], O[n!])
         Erklärung in Youtube angeschaut
 
-Das Programmieren ist mit schwer gefallen - KI hat ausgeholfen - und Bedarf dringend Nachholbedarf. Beim Verstehen von Codezeilen hat mir ein Arbeitskollege das Debuggen in Visual Studio Code gezeigt und es half mir sehr, eine Funktion zu verstehen (Aha-Effekt).
+Das Programmieren ist mit schwer gefallen - KI hat ausgeholfen - und es bedarf dringend Nachholbedarf. Beim Verstehen von Codezeilen hat mir ein Arbeitskollege das Debuggen in Visual Studio Code gezeigt und es half mir sehr, eine Funktion zu verstehen (Aha-Effekt).
 
-def lineare_Suche(data, Zielwert):
+**def lineare_Suche(data, Zielwert):
     """Durchsucht eine Liste nach einem Zielwert (lineare Suche)."""
     for Index, Element in enumerate(data):  # Ein Durchlauf über alle Elemente
         if Element == Zielwert:
             return Index  # Gefundener Index
     return "nicht gefunden"  # Nicht gefunden
 
-"Beispielaufruf"
+**"Beispielaufruf"
 numbers = [4, 2, 7, 1, 9, 5]
 numbers2 = [3, 8, 6, 0, 2]
 target_value = 2
 
-Ergebnis = lineare_Suche(numbers2, target_value)
+**Ergebnis = lineare_Suche(numbers2, target_value)
 print(f"Der Wert {target_value} wurde im Index {Ergebnis} gefunden.")
 print(numbers)
 
@@ -62,14 +62,14 @@ Ich verstand nicht, wo das Array numbers oder numbers2 von der Funktion lineare_
 Der oben angegebene Algorithmus stellt eine O(n) Laufzeitkomplexität dar, da die for-Schleife n-Schritte durchläuft bis zu einem Ergebnis. Wären 2 for-Schleifen gekoppelt dann gilt: O(n*n) = O(n²). Der Aufwand erhöht somit und für jede Mengeneingabe steigt der Aufwand nun quadratisch an anstatt linear wie bei O(n). 
 Die O-Notationen oder auch Landaunotationen geben die Laufzeitkomplexität in Abhängigkeit zur Eingabemenge an. 
 
-Gefühlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt dafür nachhaltig und wird nicht so schnell wieder vergessen.
+Gefühlt habe ich heute nicht viel geschafft, allerdings ist der Lerneffekt dafür nachhaltig und das Gelernte wird nicht so schnell wieder vergessen.
 
 # Tag 12 (20.06.2025):
   - Python: Pandas -> Scatterplotts und Korrelationen
             Numpy Arrays
             Training -> Funktionen schreiben
 
-Heute habe ich das Programmieren mit Python trainiert und einen Datensatz auf analysiert und visualisiert. Da das Programmieren noch nicht so leicht von der Hand geht, habe ich einige Funktionen geschrieben (Funktionen.jpynb).
+Heute habe ich das Programmieren mit Python trainiert und einen Datensatz analysiert und visualisiert. Da das Programmieren noch nicht so leicht von der Hand geht, habe ich einige Funktionen geschrieben [[Python - Funktionen]] 
 
 Der heutige Tag stimmt mich traurig, da mein Vorgesetzter nicht zufrieden mit mir ist und das Gefühl hat, so habe ich es zumindest verstanden, dass ich nicht genügend Interesse für Informatik mitbringe. Das ist für mich unverständlich. 
 
@@ -93,15 +93,15 @@ Hadamard-Gatter: bringt in Superposition, CNOT-Gatter in Abhängigkeit zu Qubit 
 Die Schaltkreise sind ideal, um besondere Algorithmen zu entwerfen. 
 
 Daten:
-Die Entfernungen zueinander von 48000 Städten zu berechnen scheiterte an der Hardware meines laptops. 2000 Städte tatens auch. Bei der Berechnung der Entfernung bediente
+Die Entfernungen zueinander, von 48000 Städten zu berechnen, scheiterte an der Hardware meines Laptops. 2000 Städte täten es auch. Bei der Berechnung der Entfernung bediente
 ich mich der Haversine-Formel in Python. 
-Größte Hürde war, die CSV auf 2001 Zeilen runterzukürzen und diese in Python wieder einzulesen. Python fand die Spalten auf Mal nicht mehr. DIe CSV hatte ich mit EXCEL 
-bearbeitet. Zwei Stunden habe ich rumprobiert, bis es mit Notepad ++ die Erlösung möglich war, die CSV zu bearbeiten und dann von Python einlesen zu lassen. Woran es lag 
+Größte Hürde war es, die CSV auf 2001 Zeilen runter zu kürzen und diese in Python wieder einzulesen. Python fand die Spalten auf Mal nicht mehr. Die CSV hatte ich mit EXCEL 
+bearbeitet. Zwei Stunden habe ich rumprobiert, bis mit Notepad ++ die Erlösung möglich war, die CSV zu bearbeiten und dann von Python einlesen zu lassen. Woran es lag 
 weiß ich allerdings immer noch nicht. Aber ich hab das Problem zunächst erstmal selbst gelöst. 
 
 Prozesse: 
-Das BPMN-Modell stellt ein Szenario in der Losistikbranche eines Logiistikunternehmens dar. Rund 15000 Frachten müssen innerhalb kürzester Zeit neu disponiert werden. Hier
-sollen verdeutlich werden, das darüber beschieden werden muss, ob und in welchem Maße Quantentechnologien zum Einsatz kommen soll, um die 15000 Frachten binnen kürzester zeit
+Das BPMN-Modell stellt ein Szenario in der Logistikbranche eines Logistikunternehmens dar. Rund 15000 Frachten müssen innerhalb kürzester Zeit neu disponiert werden. Hier
+soll verdeutlicht werden, dass darüber beschieden werden muss, ob und in welchem Maße Quantentechnologien zum Einsatz kommen soll, um die 15000 Frachten binnen kürzester zeit
 umzudisponieren.
 
 
@@ -109,7 +109,7 @@ umzudisponieren.
   - Buch: Learn Quanten Computing with Python and Q# (Seite 1-18)
 
 Quanten:
-Das Buch Learn Quantum computing with Python and Q# hat einen für mich wesentlichen Aspekt auf den ersten Seiten geliefert. Quantencomputer werden vorerst nur
+Das Buch Learn Quantum Computing with Python and Q# hat einen für mich wesentliche Aspekt auf den ersten Seiten geliefert. Quantencomputer werden vorerst nur
 spezielle Aufgaben lösen können und des Weiteren sind sie hinsichtlich der Eingabemenge sehr begrenzt. Lediglich Eingaben von höchstens ein paar dutzend Bits 
 können Quantensysteme der heutigen Größe aufzeichnen. Und zu guter Letzt gibt es auch bisher keine festen Regeln, um zu entscheiden, welche Aufgaben am besten
 auf klassischen Computern und welche Aufgaben die Vorteile von Quantencomputern nutzen können.
@@ -117,10 +117,10 @@ auf klassischen Computern und welche Aufgaben die Vorteile von Quantencomputern 
 Daten:
 Die Datenbank über die Städte und unter anderem ihre Koordinaten habe ich die Spalte Liefermenge in Paletten hinzugefügt. 
 LKWs laden Paletten, die irgendwo hin müssen. Die Städte haben jetzt Liefermengen zugeteilt bekommen womit man jetzt Routen planen kann, wie und wo ein LKW hinbringt und oder auflädt. Die Komplexität für einen Algorithmus wird sich erhöhen. Um wie viel, das werde ich in Kürze herausfinden. 
-"Quintessenz": Die Komplexität vor der die Logistik an sich steht ist immens und garnicht mehr vorstellbar. 
+"Quintessenz": Die Komplexität vor der die Logistik an sich steht ist immens und gar nicht mehr vorstellbar. 
 
 Prozesse:
-Digitaler Zwilling: Wie schon mit Kklaus besprochen bietet der digitale Zwilling Möglichkeiten der Daten- und Prozessanalyse. Gerade beim Abbild von Maschinen, ganzen Produktionsanlagen oder sogar ganzer Unternehmen oder Konzerne kommen 
+Digitaler Zwilling: Wie schon mit Klaus besprochen bietet der digitale Zwilling Möglichkeiten der Daten- und Prozessanalyse. Gerade beim Abbild von Maschinen, ganzen Produktionsanlagen oder sogar ganzer Unternehmen oder Konzerne kommen 
 unermesslich viele Daten zusammen, die gerade dazu einladen analysiert und benutzt zu werden, um Prozesse zu optimieren im Machine Learning einzusetzen oder Statistiken für Verhalten, Abnutzung, Vorhersagen, Unternehmensentscheidungen und vieles mehr zu erstellen.
 
 ActiveDB:
@@ -129,28 +129,23 @@ Laut Internet und Youtubeauftritten eines Partners der Firma bill-x kann ActiveB
 
 
 # Tag 15 (25.06.2025):
-  - Q#: Versuch Q# unter Visual Studio Code zum Laufen zu bringen
-    * Versuch Code zum Laufen zu bringen gescheitert
-  - Qiskit: Versuch in Qiskit algorithmen zu starten und zu visualisieren gescheitert
+  - Q#: Versuch, Q# unter Visual Studio Code zum Laufen zu bringen
+    * Versuch, Code zum Laufen zu bringen gescheitert
+  - Qiskit: Versuch, in Qiskit Algorithmen zu starten und zu visualisieren gescheitert
   
 Quanten: Q#-Code zum Laufen zu bekommen ist gescheitert. Zunächst habe ich versucht die Umgebung in Visual Studio Code für Q# herzustellen. Daran bin ich kläglich gescheitert. 
-         Co-Pilot konnte mir weitestgehend helfen, bin aber auch damit bei einem Schritt gescheitert. für Q# war eine Installation von Nöten und .Net Version 6.0.42, die explizit nur
-         mit Visual Studio Code kooperiert. Nachdem ich mehrere .NET Versionen probiert hatte, habe ich gemerkt, dass ich die Umgebungsvariabel ändern musste. Darüber hinaus musste
+         Co-Pilot konnte mir weitestgehend helfen, bin aber auch damit bei einem Schritt gescheitert. für Q# war eine Installation von Nöten und .Net Version 6.0.42, die explizit nur mit Visual Studio Code kooperiert. Nachdem ich mehrere .NET Versionen probiert hatte, habe ich gemerkt, dass ich die Umgebungsvariabel ändern musste. Darüber hinaus musste
          ich auch feststellen, dass ich mehrere Python Versionen installiert hatte und musst die ältere Version deinstallieren. 
          Ab einem gewissen Punkt wollte ich auf Conda umschwenken und ab da an ging gar nichts mehr. 
-         Zurück zu Visual Studio Code habe ich es nach Stunden endlich hinbekommen die Umgebung so einzurechten, dass ich im Prinzip starten konnte zu programmieren.
-         Gleich habe ich Beispiel zwei Codes in Q# aus dem Buck "Learn Quantum Computing with Python and Q#" ausprobiert, die nicht funktionierten. Das Buch verwies auf ein 
+         Zurück zu Visual Studio Code habe ich es nach Stunden endlich hinbekommen die Umgebung so einzurichten, dass ich im Prinzip beginnen konnte zu programmieren.
+         Gleich habe ich zwei Codes in Q# aus dem Buch "Learn Quantum Computing with Python and Q#" ausprobiert, die nicht funktionierten. Das Buch verwies auf ein 
          Repository, dass alle Code-Zeilen aus dem Buch enthält (https://github.com/crazy4pi314/learn-qc-with-python-and-qsharp) Leider ohne Erfolg. 
          die beiden Beispiele aus dem Buch liefen lediglich nach Korrektur auf (https://quantum.microsoft.com/en-us/tools/quantum-coding)
          Die Code-Zeilen aus dem Repository sind drei Jahre alt. Wahrscheinlich hat sich seither einiges geändert, ist meine Vermutung. Ricarda konnte mir leider auch 
          nicht helfen. Kai hat es geschafft, dass die Fehlermeldung nach dem Ausführen eines Programms wegfiel indem wir die Namespaces im Code von Q# entfernten. 
          Nachdem über ein halber Tag draufgegangen ist, werde ich mich Qiskit und Python und Jupyter zuwenden, was bisher reibungslos funktionierte.
 
-         ![Bild](test.png)         
-
-        Qiskit, macht seit heute auch Probleme, denn es will nicht den Crover-Algorithmus starten weil es dann rummeckert, dass bestimmte Module nicht in den aus zu imprtierenden Modulen zu finden sind. 
-        Angeblich gibt es Versionsinkompatibilitäten zwischen qiskit, Matplotlb und Numpy. Viel zu lange probiere ich mehrere Versionen aus durch deinstallieren und installieren. 
-        Ich kann zwar Quantenalgorithmen anwenden, allerdings nicht visualisieren. 
+Qiskit, macht seit heute auch Probleme, denn es will nicht den Crover-Algorithmus starten weil es dann rummeckert, dass bestimmte Module nicht in den aus zu importierenden Modulen zu finden sind. Angeblich gibt es Versionsinkompatibilitäten zwischen Qiskit, Matplotlb und Numpy. Viel zu lange probiere ich mehrere Versionen aus durch deinstallieren und installieren. Ich kann zwar Quantenalgorithmen anwenden, allerdings nicht visualisieren. 
 
 
 # Tag 16 (26.06.2025):
@@ -277,4 +272,27 @@ Fortschritte zu erzielen. Hier und da habe ich ihm ausgeholfen, aber mit der Zei
 Er ist ein sehr ruhiger und in sich gekehrter junger Mann. Er arbeitet sehr viel und vergisst oder will vielleicht auch keine Pause machen, zumindest heute erscheint es mir so. Ihm scheint es hier zu gefallen. Auf jeden Fall liegt ihm Informatik, Physik und Mathematik. 
 Weiter ist mir aufgefallen, dass er fast zu ruhig ist. Das Reden mit ihm führt nie zu Gesprächen. Er antwortet atomar. Auch bekommt er manchmal den Mund nicht auf, als redet er in sich hinein, wo man, weil man ihn nicht versteht, nachfragen muss, was er denn gesagt hat. Sein Arbeitstempo ist moderat. Ich weiß von Menschen mit ähnlichen Zügen wie seinen, dass diese mit Stress nicht umgehen können, gerade wenn es darum geht Termine einzuhalten. Inwieweit, das Einfluss auf seine Karriere haben könnte, mag ich nicht zu beurteilen. 
 
-Wenn wir das Projekt beendet haben, wird vielleicht noch etwas Zeit bleiben weiter in Quantencomputing zu kommen. Für mich steht aber an erster Stelle sein Projekt mit dem er etwas in der Tasche hat und ihm Quantencomputing näher gebracht zu haben, damit, wenn er sich für die Informatik entscheidet, wieder zu uns zurückkehrt und mit uns in Quantencomputing voll durchstartet. 
+Wenn wir das Projekt beendet haben, wird vielleicht noch etwas Zeit bleiben, weiter in Quantencomputing zu kommen. Für mich steht aber an erster Stelle sein Projekt, das  er bei Bewerbungen mit angeben kann. 
+
+
+# Tag 22 (04.07.2025):
+
+- Testen des Spiels SQL Spiels: Maja & Sophie
+- Pflege und Korrektur meiner Obsidian-Vault:
+	- Wissensdatenbankerweiterung: [[Python - Funktionen]] 
+- Lineare Algebra: Mengen [[Lineare Algebra#Mengennotation]]  
+- Jonas Tagesaufgabe: Alles gelernte der Woche nochmal kurz zu überfliegen,  Einführung in SQL mittels bereitgestellter Materialien und Lernspiel https://sql-island.informatik.uni-kl.de/
+[[DOCUMENTATION#Tag 22 (04.07.2025)]] 
+
+
+Das SQL Spiele Maja & Sophie weißt erhebliche Mängel auf. Angefangen mit dem ersten SQL-Befehl der eigentlich lediglich "SELECT Sternchen" beinhalten sollte bis hin zum Layout. Das Spiel ist noch lange nicht fertig meines Erachtens. 
+
+Meine Obdsidian-Vault wächst und gedeiht. Mit den heutigen Tag werde ich die Struktur etwas anpassen und alles gelernte mit aufnehmen. Gerade die ersten 12 Tage meines Praktikums habe ich einiges gelernt und nicht festgehalten in der Obsidian-Vault sondern größtenteils außerhalb. Jedes Wissen, was hinzukommt soll in dieser Vault mit ins Netzwerk eingebunden und verknüpft werden.
+
+Heute bin ich endlich ein Stück weiter in der Algebra gekommen und habe mir die Mengennotationen angeschaut. Und das war verdammt nötig, denn das Buch von Kaveh Bashiri "Quanen Computing" erscheint mir noch zu kryptisch mit seinen mathematischen Ausdrücken, aber so langsam entschlüsselt sich das Ganze. Es ist wirklich essentiell sich die mathematischen Grundlagen anzueignen, weil man sonst nicht weiter kommt.
+
+Jonas legt heute wieder top Leistungen hin. Mich bestärkt das Gefühl, dass es ihm hier sehr gut gefällt. Er scheint sich hier wohl zu fühlen. Es ist auch ein gutes Gefühl, zu sehen, wie er Fortschritte macht. 
+
+
+
+
