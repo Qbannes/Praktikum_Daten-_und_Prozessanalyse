@@ -294,5 +294,20 @@ Heute bin ich endlich ein Stück weiter in der Algebra gekommen und habe mir die
 Jonas legt heute wieder top Leistungen hin. Mich bestärkt das Gefühl, dass es ihm hier sehr gut gefällt. Er scheint sich hier wohl zu fühlen. Es ist auch ein gutes Gefühl, zu sehen, wie er Fortschritte macht. 
 
 
+# Tag 23 (07.07.2025):
+
+- Jonas und Juan: Für das Miniprojekt Zufallsalgorithmen nachschlagen, Beweisen von Zufällen mittels statistischer Mittel.
+
+- Brainstorming mit Jonas zum Projektablauf
+- Gespräch mit Jonas bezüglich seiner Zukunftschancen in der Daten- und Prozessanalyse im Bereich Quantencomputing.
 
 
+
+Heute bin ich für unser kleines Projekt, mit dem wir mit statistischen Mitteln Zufallsalgorithmen in Python der Pseudozufälligkeit überführen wollen, auf ein kleines Problem gestoßen, welches wohlmöglich das Mini-Projekt zu einem großen oder gar undurchführbaren Projekt macht. 
+
+Mit statistischen Mitteln eine Ausgabe von zufällig oder vermeintlich zufälligen Nullen und Einsen statistisch endgültig als Pseudozufall oder echten Zufall zu beweisen ist nicht möglich. Der Satz von Rice besagt, dass kein Programm eine zufällige Bitfolge als zufällige Bitfolge definitiv bestimmen kann. Meine Idee war, dass ich mit statistischen Mitteln Zufallsgeneratoren in Jupyter (Python) gegen den Zufall eines echten Quantencomputers, mittels Qiskit IBM antreten zu lassen. Der Quantencomputer generiert ja Zufällige Nullen und Einsen indem er das Qubit durch das Hadamard-Gatter laufen lässt. Das Problem hierbei, eine zufällige Abfolge von Bits könnte ein Muster erzeugen, dass in der statistischen Auswertung vermeintlich ein Muster erkennen lässt, dass wiederum als Pseudozufall gewertet werden kann sowie ein Pseudozufall statistisch als Nicht-Pseudozufall gewertet werden kann. Somit entsteht ein Dilemma bei der Beweisführung. 
+Den ganzen Tag haben wir damit zugebracht uns mit Algorithmen und ihrer Pseudozufälligkeit zu beschäftigen und mit der Frage, wie man eine Ausgabe von 100.000 Nullen und Einsen statistisch als Zufall oder Pseudozufall überführen kann. 
+Der random-Generator in Python zum Beispiel kann mit einem festen Seed von der Menge der ganzen Zahlen Z={..., -3,-2,-1,0,1,2,3, ...} gefüttert werden und gibt darauf hin eine pseudozufällige Zahl aus. Bleibt man bei der Eingabe des Seeds bei der Eins, wird auch immer der gleiche Wert ausgegeben, die generierte Abfolge deterministisch ist. Lässt man den Seed ganz weg, orientiert sich der Zufallsgenerator an Entropiequellen wie zum Beispiel der Systemzeit. Das macht Ausgabe keinesfalls zu einem zufälligen Ergebnis. Mit Hilfe des Run-Tests, Lempel-Ziv-Tests, Chi-Quadrat-Tests und der Autokorrelation lassen sich Tendenzen aufzeigen aber sie dienen nicht dazu, um mit absoluter Genauigkeit echten oder unechten Zufall zu bestimmen. 
+Das Projekt werden wir dennoch wie gehabt fortführen und die Ergebnisse präsentieren, auch wenn wir die Beweisführung nicht zur Absolute bringen können. Dafür können wir am Ende die technische Beweisführung für die Pseudozufälligkeit bringen und die theoretische Zufälligkeit des Qubits bei seiner Messung beschreiben. Wir haben dann somit bewiesen, dass wir etwas nicht beweisen können und das erachte ich als mindestens genauso wertvoll an.
+
+[[DOCUMENTATION#Tag 23 (07.07.2025)]] 

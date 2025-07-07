@@ -227,3 +227,11 @@ vergleichen.
 - Lineare Algebra: Mengen [[Lineare Algebra#Mengennotation]]  
 - Jonas Tagesaufgabe: Alles gelernte der Woche nochmal kurz zu überfliegen,  Einführung in SQL mittels bereitgestellter Materialien und Lernspiel https://sql-island.informatik.uni-kl.de/
 [[LERNTAGEBUCH#Tag 22 (04.07.2025)]] 
+
+# Tag 23 (07.07.2025):
+
+- Jonas und Juan: Für das Miniprojekt Zufallsalgorithmen nachschlagen, Beweisen von Zufällen mittels statistischer Mittel.
+
+- Brainstorming mit Jonas zum Projektablauf
+- Gespräch mit Jonas bezüglich seiner Zukunftschancen in der Daten- und Prozessanalyse im Bereich Quantencomputing.
+[[LERNTAGEBUCH#Tag 23 (07.07.2025)]] 
