@@ -235,3 +235,12 @@ vergleichen.
 - Brainstorming mit Jonas zum Projektablauf
 - Gespräch mit Jonas bezüglich seiner Zukunftschancen in der Daten- und Prozessanalyse im Bereich Quantencomputing.
 [[LERNTAGEBUCH#Tag 23 (07.07.2025)]] 
+
+# Tag 24 (08.07.2025):
+- Jonas: 
+	- Quantenalgorithmus mit Qiskit programmieren (Simulation) mit 100.000 Shots, Speicherfunktion implementieren zur Weiterverarbeitung, statistische Untersuchungsfunktionen implementieren
+	- Recherche: Wird IBM nach den 10 Minuten / Monat abgerechnet, falls der Job länger als die 10 Minuten dauert?
+- Juan:
+	- Morgenmeeting mit Ricarda -> Vorstellung interner Lernplattform, vorzugsweise für Praktikanten und Auszubildende
+
+[[LERNTAGEBUCH#Tag 24 (08.07.2025)]] 

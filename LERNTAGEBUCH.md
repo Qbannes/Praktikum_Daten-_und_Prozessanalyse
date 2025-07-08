@@ -311,3 +311,21 @@ Der random-Generator in Python zum Beispiel kann mit einem festen Seed von der M
 Das Projekt werden wir dennoch wie gehabt fortführen und die Ergebnisse präsentieren, auch wenn wir die Beweisführung nicht zur Absolute bringen können. Dafür können wir am Ende die technische Beweisführung für die Pseudozufälligkeit bringen und die theoretische Zufälligkeit des Qubits bei seiner Messung beschreiben. Wir haben dann somit bewiesen, dass wir etwas nicht beweisen können und das erachte ich als mindestens genauso wertvoll an.
 
 [[DOCUMENTATION#Tag 23 (07.07.2025)]] 
+
+# Tag 24 (08.07.2025):
+- Jonas: 
+	- Quantenalgorithmus mit Qiskit programmieren (Simulation) mit 100.000 Shots, Speicherfunktion implementieren zur Weiterverarbeitung, statistische Untersuchungsfunktionen implementieren
+	- Recherche: Wird IBM nach den 10 Minuten / Monat abgerechnet, falls der Job länger als die 10 Minuten dauert?
+- Juan:
+	- Morgenmeeting mit Ricarda -> (siehe [[DOCUMENTATION#Tag 24 (08.07.2025)]])
+	- Vorbereitung und Bereitstellung Tagesaufgaben für Jonas
+	- Start der schriftlichen Führung des Projekt: Zufall
+		- Einführung
+		- Technische Mittel
+		- Klassische Zufallsgeneratoren (PRNG)
+		- Quantenzufallsgeneratoren (QRNG)
+		- Statistische Analyse und Theoretische Grenzen
+
+Nach dem wir bemerkt hatten, dass wir mit unseren statistischen Mitteln keine absoluten Beweise liefern können, haben wir uns heute aufgemacht, das Projekt Zufall zu starten. Die nächste Frage, die uns ereilte war, ob die 10 Minuten, die uns monatlich von IBM zur Verfügung gestellt werden, ausreichen werden, um 100.000 mal ein Qubit in den Superpositionszustand zu versetzen, um von diesem ebenso viele zufällige Bits zurückzuerhalten. Wir überlegen es mit 10.000 Shots erstmal zu versuchen, denn uns liegt etwas die Zeit im Nacken. Der IBM Q-Computer wird auch von deren genutzt und wir kommen somit in eine Warteschleife, für die man aber nicht zur Kasse gebeten wird. Allerdings kann es je nach Aufkommen bis zu 24 Stunden dauern, bis die Anfrage ausgeführt wird. Für das Projekt haben wir nur noch drei Tage. Drei Tage, die der Praktikant noch hier ist. Hinzu kommt noch, dass wir nicht wissen, in welcher Form wir einen beendeten Vorgang bei IBM zurück bekommen. Liefern sie uns eine JSON oder sonstiges Format zurück oder bekommen wir die Antwort direkt an unser Programm übermittelt?
+
+Während ich hier schreibe wurde unser erster Auftrag von IBM´s Quantencomputer erledigt. Es hat nur eine Sekunde gedauert für 1.000 Shots. Wir haben eine "echte" zufällige Reihe von Nullen und Einsen. 
