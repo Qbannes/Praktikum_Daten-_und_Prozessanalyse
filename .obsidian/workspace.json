@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,15 +236,15 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "63b9561ca7745fb0",
+  "active": "8e3ae8146f23023e",
   "lastOpenFiles": [
-    "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
+    "gespraechmitklaus.md",
+    "DOCUMENTATION.md",
     "Miniprojekt_Praktikant.md",
     "Lineare Algebra.md",
     "Lineare Algebra (conflicted copy 2025-07-04 123628).md",
     "Q#/Quantenalgorithmen Q Sharp.md",
-    "gespraechmitklaus.md",
     "Python-Funktionen.md",
     "fahrplan_praktikant.md",
     "Quests.md",

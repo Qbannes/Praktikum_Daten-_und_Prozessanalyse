@@ -329,4 +329,13 @@ Das Projekt werden wir dennoch wie gehabt fortführen und die Ergebnisse präsen
 Nach dem wir bemerkt hatten, dass wir mit unseren statistischen Mitteln keine absoluten Beweise liefern können, haben wir uns heute aufgemacht, das Projekt Zufall zu starten. Die nächste Frage, die uns ereilte war, ob die 10 Minuten, die uns monatlich von IBM zur Verfügung gestellt werden, ausreichen werden, um 100.000 mal ein Qubit in den Superpositionszustand zu versetzen, um von diesem ebenso viele zufällige Bits zurückzuerhalten. Wir überlegen es mit 10.000 Shots erstmal zu versuchen, denn uns liegt etwas die Zeit im Nacken. Der IBM Q-Computer wird auch von deren genutzt und wir kommen somit in eine Warteschleife, für die man aber nicht zur Kasse gebeten wird. Allerdings kann es je nach Aufkommen bis zu 24 Stunden dauern, bis die Anfrage ausgeführt wird. Für das Projekt haben wir nur noch drei Tage. Drei Tage, die der Praktikant noch hier ist. Hinzu kommt noch, dass wir nicht wissen, in welcher Form wir einen beendeten Vorgang bei IBM zurück bekommen. Liefern sie uns eine JSON oder sonstiges Format zurück oder bekommen wir die Antwort direkt an unser Programm übermittelt?
 
 Während ich hier schreibe wurde unser erster Auftrag von IBM´s Quantencomputer erledigt. Es hat nur eine Sekunde gedauert für 1.000 Shots. Wir haben eine "echte" zufällige Reihe von Nullen und Einsen. Morgen werden wir die 100.000 Shots an IBM übergeben und sind gespannt, was dabei
-$$$$
+
+# Tag 25 (09.07.2025):
+- Jonas: 
+	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
+	- Auswertung und Visualisierung der Daten des Quantencomputers
+	- Programmierprobleme in Qiskit beheben.
+- Juan:
+	- Morgenmeeting mit Ricarda -> (Installation Reinigungsroboter)
+	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
+	- Schriftlich: Dokumentation der Auswertung und Ergebnisse

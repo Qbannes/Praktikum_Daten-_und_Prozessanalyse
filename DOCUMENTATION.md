@@ -244,3 +244,13 @@ vergleichen.
 	- Morgenmeeting mit Ricarda -> Vorstellung interner Lernplattform, vorzugsweise für Praktikanten und Auszubildende
 
 [[LERNTAGEBUCH#Tag 24 (08.07.2025)]] 
+
+# Tag 25 (09.07.2025):
+- Jonas: 
+	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
+	- Auswertung und Visualisierung der Daten des Quantencomputers
+	- Programmierprobleme in Qiskit beheben.
+- Juan:
+	- Morgenmeeting mit Ricarda -> (Installation Reinigungsroboter)
+	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
+	- Schriftlich: Dokumentation der Auswertung und Ergebnisse

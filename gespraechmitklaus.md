@@ -22,3 +22,9 @@
 - 3 Tage austauschen
 - Anwendunsfälle bearbeiten (Kamera Bilderkennung), Wahrsagerwürfel?
 
+# 09.07.2025
+- entanglement
+- Quantennetzwerkprotokoll
+- GraphQl, Nas 4 Jey, ArrangoDB, TigerDB
+- Knowledge Graph Database:
+	- Das Wissen eines scheidenden Mitarbeiters in digitaler Form komplett aufrechtzuerhalten im Unternehmen
