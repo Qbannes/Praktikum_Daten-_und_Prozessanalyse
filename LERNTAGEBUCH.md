@@ -339,3 +339,36 @@ Während ich hier schreibe wurde unser erster Auftrag von IBM´s Quantencomputer
 	- Morgenmeeting mit Ricarda -> (Installation Reinigungsroboter)
 	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
 	- Schriftlich: Dokumentation der Auswertung und Ergebnisse
+
+
+
+
+
+
+
+
+
+[[DOCUMENTATION#Tag 25 (09.07.2025)]] 
+
+
+
+
+# Tag 26 (10.07.2025):
+Jonas: 
+- schriftliche Dokumentation und Abschluss des Projektes
+- Korrekturen vorgenommen
+- SQL lernen
+
+
+Juan: 
+- schriftliche Dokumentation und Abschluss des Projektes
+- Korrekturen vorgenommen
+- Antrag für bessere Hardware (Laptop)
+- Teams- und Maileinrichtung bei Iniationware
+- Firmenkultur: Arbeiten mit KI
+
+
+
+
+[[DOCUMENTATION#Tag 26 (10.07.2025)]]
+

@@ -254,3 +254,19 @@ vergleichen.
 	- Morgenmeeting mit Ricarda -> (Installation Reinigungsroboter)
 	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
 	- Schriftlich: Dokumentation der Auswertung und Ergebnisse
+
+[[LERNTAGEBUCH#Tag 25 (09.07.2025)]] 
+
+# Tag 26 (10.07.2025):
+Jonas: 
+- schriftliche Dokumentation und Abschluss des Projektes
+- Korrekturen vorgenommen
+- SQL lernen
+
+
+Juan: 
+- schriftliche Dokumentation und Abschluss des Projektes
+- Korrekturen vorgenommen
+- Antrag für bessere Hardware (Laptop)
+
+[[LERNTAGEBUCH#Tag 26 (10.07.2025)]]
