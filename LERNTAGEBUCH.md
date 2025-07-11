@@ -157,7 +157,7 @@ Qiskit, macht seit heute auch Probleme, denn es will nicht den Crover-Algorithmu
 		* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc) 
 	- Quantenalgorithmen programmiert und in eigener Markdown verständlich erklärt
 [[Quantenalgorithmen Q Sharp]]
-	- Erlaubnis erhalten von www.nobocham.de für Download von Koordinaten
+	- Erlaubnis erhalten von www.nobochamp.de für Download von Koordinaten
 
 Heute habe ich Obsidian kennen- und gleich schätzen gelernt. Die Möglichkeiten der intelligenten Verknüpfungen meiner Dokumentationen sind extrem nützlich gerade im Hinblick auf das Wissen, welches sich in der kommenden Zeit ansammeln wird. Alle Berührungspunkte von Quanteninformatik, Daten- und Prozessanalyse, der Ausbildung oder wenn es auch nur der Alltag oder Nebenschauplätze sind, können als Netzwerk, durch das man sich schnell bewegen kann, überschaubar angezeigt werden.
 
@@ -338,19 +338,13 @@ Während ich hier schreibe wurde unser erster Auftrag von IBM´s Quantencomputer
 - Juan:
 	- Morgenmeeting mit Ricarda -> (Installation Reinigungsroboter)
 	- Projektdurchführung: 100.000 Shots in den Quantencomputer (IBM) gemeinsam
+	- Auswertung und Visualisierung der Daten des Quantencomputers
 	- Schriftlich: Dokumentation der Auswertung und Ergebnisse
 
-
-
-
-
-
-
-
+Den Quantenzufallsgenerator bestehend aus einem Qubit, einem Hadamard-Gatter, einem Messgatter und 100.000 Shots haben wir dem Quantencomputer übergeben und er hat seinen Job in 27 Sekunden erledigt und er hat mit 100.000 Nullen und Einsen zurückgeschossen. Die Daten haben wir gleich in unser vorbereitetes Programm in Python gegeben und statistisch ausgewertet.  Bei der statistischen Auswertung stellten wir fest, dass es unmöglich ist, echten Zufall zu beweisen. Wir haben diverse Tests an dieser Datenreihe und den Datenreihen der Pseudozufallsgeneratoren, die als Vergleich mit dem Quantenzufallsgenerator dienten, gemacht, wie Chi-Quadrat, Ljung-Box (Autokorrelation), Runs-Test, Lempel-ZIV, Max Power, Entropie, Pattern-Test, Bitflip und aus all den daraus resultierenden Werten eine Bewertung hinsichtlich Pseudozufall Ja oder Nein abgegeben. Wir konnten mit den Tests auch nicht absolut beweisen, dass es sich bei den Pseudozufallsgeneratoren um Pseudozufallszahlen handelte, denn diese Algorithmen sind darauf getrimmt zuvor genannte Tests zu bestehen und Zahlen zu generieren , die die Merkmale von Zufall zeigen. Somit steckten wir in einem Dilemma aber haben damit bewiesen, dass wir nichts bewiesen haben. Das Ziel echten Zufall statistisch zu beweisen ist nicht erreichbar. 
+Vielleicht, so war mein letzter Gedanke zu diesem Thema sind wir einfach noch nicht so weit, den Zufall, der nichts anderes als Chaos ist, zu verstehen.
 
 [[DOCUMENTATION#Tag 25 (09.07.2025)]] 
-
-
 
 
 # Tag 26 (10.07.2025):
@@ -367,8 +361,30 @@ Juan:
 - Teams- und Maileinrichtung bei Iniationware
 - Firmenkultur: Arbeiten mit KI
 
-
+Heute haben Jonas und ich das Projekt erfolgreich beendet. Und war zuvor gar nicht bewusst, was für eine immense Schreibarbeit darin steckt. Die Planung und die Durchführung waren dagegen jeweils nur ein Wimpernschlag. Selbst der Aufwand bei der Programmierung kam an den Aufwand für die Dokumentation nicht heran. Das Projekt, besser gesagt das Mini-Projekt hat mir einen Vorgeschmack auf das gegeben, was mir noch bevorsteht. 
 
 
 [[DOCUMENTATION#Tag 26 (10.07.2025)]]
 
+# Tag 27 (11.07.2025):
+Jonas: 
+- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Korrekturen vorgenommen
+- SQL lernen
+
+
+Juan: 
+- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Ausstellung der Bescheinigung
+- Obsidian: Lerntagebuch Tag 25 + 26 nachschreiben
+- Obsidian: Erweiterung des Projekt und legen neuer
+		  Verknüpfungen
+
+Heute ist der letzte Tag, an dem Jonas, unser Kurzzeitpraktikant bei uns weilt. Er hat eine hervorragende Performance abgelegt und ich freue mich, wenn er wieder kommt. Zusammen haben wir ein kleines Mini-Projekt namens Zufall auf die Beine gestellt und heute zum Abschluss noch einen Quantenwürfelspiel programmiert. Hierbei verzichten wir allerdings auf echte Quantenhardware, weil wir nur ein monatliches Kontingent von 10 Minuten bei IBM haben. Die Simulation der Quantenschaltkreise geschieht über Qiskit. 
+Die Arbeit mit Jonas hat mir sehr gefallen. Wir haben uns sehr gut verstanden. Ich habe ihm die Bescheinigung von seiner Schule ausgefüllt. Die Bescheinigung wird sich sehen lassen können. Darüber hinaus habe ich Jonas im Namen der Firma einen LED-Rucksack geschenkt, worüber er sich sehr gefreut hat. 
+Für mich waren die zwei Wochen mit ihm sehr ertragreich. Die Tage waren von gegenseitigem Respekt geprägt. Wir liegen 21 Jahre auseinander. Wir konnten gegenseitig einiges voneinander lernen. An dieser Stelle muss ich sagen, dass ich ein Befürworter von mehreren Generationen  in einem Unternehmen bin. 
+Für den Rest des Tages steht nur noch Schreibarbeit an während Jonas sich weiter an kniffligen SQL-Aufgaben versucht, die ich ihm gegeben habe. SQL ist für ihn auch ein weiteres Feld, wofür er sich sehr interessiert. 
+
+Mein Netzwerk in Odsidian bekommt eine ganz neue Struktur und eine erste gewisse Hierarchie, wenn letzteres überhaupt möglich ist. Alles Wissen wird gebündelt in einer Wissensdatenbank. Allerdings gelangt darin nur das gelernte Wissen hinein, welches nicht unters Betriebsgeheimnis fällt. Diese Informationen können später einem KI-Agenten übergeben werden. Betriebsgeheimnisse, Forschungs- und Entwicklungserkenntnisse und Ergebnisse werden zunächst in einer separaten Markdown gespeichert. 
+
+[[LERNTAGEBUCH#Tag 27 (11.07.2025)]] 

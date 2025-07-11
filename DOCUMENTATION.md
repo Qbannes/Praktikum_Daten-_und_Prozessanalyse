@@ -163,14 +163,14 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 - Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
 	* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
 - Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]] 
-- Erlaubnis erhalten von www.nobocham.de für Download von Koordinaten
+- Erlaubnis erhalten von www.nobochamp.de für Download von Koordinaten
 [[LERNTAGEBUCH#Tag 16 (26.06.2025)]]
 
 
 # Tag 17 (27.06.2025):
 - Quanten: Quantum IBM Composer (https://quantum.ibm.com/composer/files/4cccdbc18766adc14b8a6e4c77856e529ee24663b69dbccc3de528db3d4be757)
 Allerdings benötigt man einen Account, den Schaltkreis zu testen. 
-- Webscraping der Koordinaten von www.nobocham.de
+- Webscraping der Koordinaten von www.nobochamp.de
 - Berechnung der Entfernungsmatrix in Jupyter
 
 
@@ -270,3 +270,18 @@ Juan:
 - Antrag für bessere Hardware (Laptop)
 
 [[LERNTAGEBUCH#Tag 26 (10.07.2025)]]
+
+# Tag 27 (11.07.2025):
+Jonas: 
+- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Korrekturen vorgenommen
+- SQL lernen
+
+
+Juan: 
+- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Ausstellung der Bescheinigung
+- Obsidian: Lerntagebuch Tag 25 + 26 nachschreiben
+- Obsidian: Erweiterung des Projekt und legen neuer
+		  Verknüpfungen
+[[LERNTAGEBUCH#Tag 27 (11.07.2025)]] 
