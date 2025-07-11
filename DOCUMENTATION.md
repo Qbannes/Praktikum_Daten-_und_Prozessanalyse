@@ -162,7 +162,7 @@ Am ersten Tag finde ich mich zunächst zurecht mit:
 - Erstellung von To-Do-Liste in im Markdwonformat (- [ ] To-Do-Nr. 1)
 - Latex Plugin für Obsidian (Formeln in Obsidian anzeigen)
 	* [Youtube](https://www.youtube.com/watch?v=FA0z7oR7OWc)
-- Quantenalgorithmen in Q# programmieren und verstehen [[Quantenalgorithmen Q Sharp]] 
+- Quantenalgorithmen in Q# programmieren und verstehen [[Daten- und Prozessanalyse und Quantencomputing#Quantencomputing mit Q]]  
 - Erlaubnis erhalten von www.nobochamp.de für Download von Koordinaten
 [[LERNTAGEBUCH#Tag 16 (26.06.2025)]]
 
@@ -223,8 +223,8 @@ vergleichen.
 
 - Testen des Spiels SQL Spiels: Maja & Sophie
 - Pflege und Korrektur meiner Obsidian-Vault:
-	- Wissensdatenbankerweiterung: [[Python - Funktionen]] 
-- Lineare Algebra: Mengen [[Lineare Algebra#Mengennotation]]  
+	- Wissensdatenbankerweiterung: [[Daten- und Prozessanalyse und Quantencomputing#Python - Funktionen]]  
+- Lineare Algebra: Mengen [[Daten- und Prozessanalyse und Quantencomputing#Lineare Algebra]]  
 - Jonas Tagesaufgabe: Alles gelernte der Woche nochmal kurz zu überfliegen,  Einführung in SQL mittels bereitgestellter Materialien und Lernspiel https://sql-island.informatik.uni-kl.de/
 [[LERNTAGEBUCH#Tag 22 (04.07.2025)]] 
 
@@ -259,13 +259,13 @@ vergleichen.
 
 # Tag 26 (10.07.2025):
 Jonas: 
-- schriftliche Dokumentation und Abschluss des Projektes
+- schriftliche Dokumentation und Abschluss des Projektes [[Projekt_Zufall]] 
 - Korrekturen vorgenommen
 - SQL lernen
 
 
 Juan: 
-- schriftliche Dokumentation und Abschluss des Projektes
+- schriftliche Dokumentation und Abschluss des Projektes  [[Projekt_Zufall]] 
 - Korrekturen vorgenommen
 - Antrag für bessere Hardware (Laptop)
 
@@ -273,15 +273,16 @@ Juan:
 
 # Tag 27 (11.07.2025):
 Jonas: 
-- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Quantenwürfelspiel 101 mit Qiskit (Simulation) https://github.com/Qbannes/Quantum_Computing_Team/tree/main/Qiskit
 - Korrekturen vorgenommen
 - SQL lernen
 
 
 Juan: 
-- Quantenwürfelspiel 101 mit Qiskit (Simulation)
+- Quantenwürfelspiel 101 mit Qiskit (Simulation) https://github.com/Qbannes/Quantum_Computing_Team/tree/main/Qiskit
 - Ausstellung der Bescheinigung
 - Obsidian: Lerntagebuch Tag 25 + 26 nachschreiben
 - Obsidian: Erweiterung des Projekt und legen neuer
 		  Verknüpfungen
 [[LERNTAGEBUCH#Tag 27 (11.07.2025)]] 
+
