@@ -286,3 +286,11 @@ Juan:
 		  Verknüpfungen
 [[LERNTAGEBUCH#Tag 27 (11.07.2025)]] 
 
+# 12.07.25 - 24.07.25 Urlaub
+
+# Tag 28 (25.07.2025):
+
+Einstieg in Raum und Zeit: Vorlesung mit Frederic P. Schuller
+- Die Struktur der Raumzeit [Youtube] (https://www.youtube.com/watch?v=2vef2GqLJ7M)
+- Resümierung des letzten projektes: Code verinnerlichen, Ergebnisse betrachten, Schlussfolgerungen ziehen
+- Quantenwürfelspiel verfeinern
