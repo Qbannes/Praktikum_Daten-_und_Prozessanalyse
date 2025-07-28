@@ -387,7 +387,7 @@ Für den Rest des Tages steht nur noch Schreibarbeit an während Jonas sich weit
 
 Mein Netzwerk in Odsidian bekommt eine ganz neue Struktur und eine erste gewisse Hierarchie, wenn letzteres überhaupt möglich ist. Alles Wissen wird gebündelt in einer Wissensdatenbank. Allerdings gelangt darin nur das gelernte Wissen hinein, welches nicht unters Betriebsgeheimnis fällt. Diese Informationen können später einem KI-Agenten übergeben werden. Betriebsgeheimnisse, Forschungs- und Entwicklungserkenntnisse und Ergebnisse werden zunächst in einer separaten Markdown gespeichert. 
 
-[[LERNTAGEBUCH#Tag 27 (11.07.2025)]] 
+[[DOCUMENTATION#Tag 27 (11.07.2025)]] 
 
 # 12.07.25 - 24.07.25 Urlaub
 
@@ -398,10 +398,16 @@ Einstieg in Raum und Zeit: Vorlesung mit Frederic P. Schuller
 - Resümierung des letzten projektes: Code verinnerlichen, Ergebnisse betrachten, Schlussfolgerungen ziehen
 - Quantenwürfelspiel verfeinern
 
-
+[[DOCUMENTATION#Tag 28 (25.07.2025)]] 
 
 Was ist Raum und was ist Zeit? Und was hat das mit Quanteninformatik zu tun? Ja ganz einfach. Verschränkung von Teilchen besagt, dass sie sich instantan beeinflussen, egal wie weit sie voneinander wegliegen. Das eine Teilchen muss erst nicht zum anderen Teilchen hinlaufen, um ihm mittzuteilen, wie ich sich zu verhalten hat. Die klassischen Raum-Zeit-Gesetze werden doch verletzt.  In der Vorlesung von Frederic P. Schuller lernte man was Raum-Zeit oder auch Raumzeit ist nach Newton, Einstein und Laplace. 
 
 Resümee des Projekts Zufall:
 Das Projekt Zufall mit dem Kurzzeitpraktikanten Jonas hat mir einiges an Ertrag gebracht. Teamwork ist das A und O und dazu zählt die Kommunikation ganz oben auf meiner Liste. Denn wir haben zusammen die Theorie in die Praxis umgewandelt. Dabei konnten ich Jonas, der mathematisches und programmatisches Verständnis mitbrachte ihn sehr schnell in Quantencomputing auf ein Level bringen, dass ausreichte, um das Projekt zu bewerkstelligen. Die Theorie, die ich mir zuvor reinpfiff brauchte er nicht in Gänze, denn für das Projekt notwendige Kenntnisse habe ich ihm aufbereitet. Ich durfte Lehrer und Projektleiter  zugleich sein und das hat mir sehr viel gebracht. Nun bin ich selber wieder Schüler und versuche mich an weiteren Praktiken mittels der Literatur die ich bisher noch zu Genüge vor mir liegen habe. 
+
+# Tag 29 (28.07.2025):
+
+On-Demand-Webinar: Quanten trifft Logistik: Eine Routing-Fallstudie aus der Praxis: (https://www.youtube.com/watch?v=vm_9wbmhQyA)
+
+
 

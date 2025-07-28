@@ -69,6 +69,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "LERNTAGEBUCH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LERNTAGEBUCH"
+            }
+          },
+          {
+            "id": "39aa1a058f90dbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DOCUMENTATION.md",
                 "mode": "source",
                 "source": false
@@ -224,8 +238,11 @@
   },
   "active": "b876c1132fbdc33e",
   "lastOpenFiles": [
-    "LERNTAGEBUCH.md",
+    "Python/best_route_with_priority_client.png",
+    "Python/genetic_algorithms_TSP.py",
+    "Python/genetic_algorithms_TSP.ipynb",
     "DOCUMENTATION.md",
+    "LERNTAGEBUCH.md",
     "Daten- und Prozessanalyse und Quantencomputing.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
@@ -249,7 +266,6 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/06 - echter Zufall vs. Pseudozufall (technisch und mathematisch).md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
@@ -267,8 +283,6 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/03 - Quantenalgorithmen",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis"
+    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation"
   ]
 }
