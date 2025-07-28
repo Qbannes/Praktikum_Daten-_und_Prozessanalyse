@@ -408,6 +408,8 @@ Das Projekt Zufall mit dem Kurzzeitpraktikanten Jonas hat mir einiges an Ertrag 
 # Tag 29 (28.07.2025):
 
 On-Demand-Webinar: Quanten trifft Logistik: Eine Routing-Fallstudie aus der Praxis: (https://www.youtube.com/watch?v=vm_9wbmhQyA)
+Programm zur Berechnung der optimalsten Route mit Greedy-Algorithmus (gierige Heuristik)
 
+Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, welches die optimalste Route berechnet unter bestimmten Restriktionen. Die Restriktion ist die 
 
 

@@ -238,11 +238,12 @@
   },
   "active": "b876c1132fbdc33e",
   "lastOpenFiles": [
+    "DOCUMENTATION.md",
+    "LERNTAGEBUCH.md",
+    "Python/greedy_algorithms_TSP.py",
     "Python/best_route_with_priority_client.png",
     "Python/genetic_algorithms_TSP.py",
     "Python/genetic_algorithms_TSP.ipynb",
-    "DOCUMENTATION.md",
-    "LERNTAGEBUCH.md",
     "Daten- und Prozessanalyse und Quantencomputing.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
@@ -276,13 +277,11 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703100630.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703095942.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703095851.png",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703093539.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/06 - SQL",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/03 - Quantenalgorithmen",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation"
+    "Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix"
   ]
 }

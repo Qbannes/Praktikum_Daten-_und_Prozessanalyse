@@ -296,3 +296,8 @@ Einstieg in Raum und Zeit: Vorlesung mit Frederic P. Schuller
 - Quantenwürfelspiel verfeinern
 
 [[LERNTAGEBUCH#Tag 28 (25.07.2025)]] 
+
+# Tag 29 (28.07.2025):
+
+On-Demand-Webinar: Quanten trifft Logistik: Eine Routing-Fallstudie aus der Praxis: (https://www.youtube.com/watch?v=vm_9wbmhQyA)
+Programm zur Berechnung der optimalsten Route mit Greedy-Algorithmus (gierige Heuristik)
