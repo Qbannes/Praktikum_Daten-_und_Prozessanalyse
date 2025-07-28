@@ -409,7 +409,13 @@ Das Projekt Zufall mit dem Kurzzeitpraktikanten Jonas hat mir einiges an Ertrag 
 
 On-Demand-Webinar: Quanten trifft Logistik: Eine Routing-Fallstudie aus der Praxis: (https://www.youtube.com/watch?v=vm_9wbmhQyA)
 Programm zur Berechnung der optimalsten Route mit Greedy-Algorithmus (gierige Heuristik)
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
 
-Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, welches die optimalste Route berechnet unter bestimmten Restriktionen. Die Restriktion ist die 
+Bundesregierung fördert Quantencomputing [Homepage - Bekanntmachung - BMFTR](https://www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2025/07/2025-07-09-bekanntmachung-quantum-future-professionals.html)
+
+[[DOCUMENTATION#Tag 29 (28.07.2025)]] 
+
+Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, welches die optimalste Route berechnet unter bestimmten Restriktionen. Unter Berücksichtigung der Lenkzeit eines LKWs und eines priorisierten Kunden sollten unter 50 verschiedenen Kunden die bestmögliche Route ermittelt werden. Das Szenario ist das selbige wie im oben angegeben Webinar wo dies allerdings mit Hilfe des Quantenalgorithmus teiligelöst wird. Im nächsten Schritt will ich mein Verfahren und das aus dem Webinar vergleichen. 
 
 
+# Tag 30 (29.07.2025):

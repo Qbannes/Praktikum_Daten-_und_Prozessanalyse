@@ -301,3 +301,8 @@ Einstieg in Raum und Zeit: Vorlesung mit Frederic P. Schuller
 
 On-Demand-Webinar: Quanten trifft Logistik: Eine Routing-Fallstudie aus der Praxis: (https://www.youtube.com/watch?v=vm_9wbmhQyA)
 Programm zur Berechnung der optimalsten Route mit Greedy-Algorithmus (gierige Heuristik)
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
+
+[[LERNTAGEBUCH#Tag 29 (28.07.2025)]] 
+
+# Tag 30 (29.07.2025):
