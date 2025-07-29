@@ -415,7 +415,13 @@ Bundesregierung fördert Quantencomputing [Homepage - Bekanntmachung - BMFTR](ht
 
 [[DOCUMENTATION#Tag 29 (28.07.2025)]] 
 
-Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, welches die optimalste Route berechnet unter bestimmten Restriktionen. Unter Berücksichtigung der Lenkzeit eines LKWs und eines priorisierten Kunden sollten unter 50 verschiedenen Kunden die bestmögliche Route ermittelt werden. Das Szenario ist das selbige wie im oben angegeben Webinar wo dies allerdings mit Hilfe des Quantenalgorithmus teiligelöst wird. Im nächsten Schritt will ich mein Verfahren und das aus dem Webinar vergleichen. 
+Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, welches die optimalste Route berechnet unter bestimmten Restriktionen. Unter Berücksichtigung der Lenkzeit eines LKWs und eines priorisierten Kunden sollten unter 50 verschiedenen Kunden die bestmögliche Route ermittelt werden. Das Szenario ist das selbige wie im oben angegeben Webinar wo dies allerdings mit Hilfe des Quantenalgorithmus teilgelöst wird.
 
 
 # Tag 30 (29.07.2025):
+
+Routenprogramm nochmal Zeile für Zeile durchgehen und kommentieren
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
+Buch (S.1-32): Weniger schlecht programmieren (Kathrin Passig & Johannes Jander)
+
+[[DOCUMENTATION#Tag 30 (29.07.2025)]] 

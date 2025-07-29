@@ -306,3 +306,9 @@ https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/
 [[LERNTAGEBUCH#Tag 29 (28.07.2025)]] 
 
 # Tag 30 (29.07.2025):
+
+Routenprogramm nochmal Zeile für Zeile durchgehen und kommentieren
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
+Buch (S.1-32): Weniger schlecht programmieren (Kathrin Passig & Johannes Jander)
+
+[[LERNTAGEBUCH#Tag 30 (29.07.2025)]] 
