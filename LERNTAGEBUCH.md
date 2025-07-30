@@ -420,8 +420,17 @@ Heute habe ich mich mit dem Programmieren eines Routenprogrammes beschäftigt, w
 
 # Tag 30 (29.07.2025):
 
-Routenprogramm nochmal Zeile für Zeile durchgehen und kommentieren
+Routenprogramm Zeile für Zeile durchgehen und kommentieren
 https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
 Buch (S.1-32): Weniger schlecht programmieren (Kathrin Passig & Johannes Jander)
 
 [[DOCUMENTATION#Tag 30 (29.07.2025)]] 
+
+Da ich das Routenprogramm schreiben lassen habe, habe ich mich gleich rangemacht, jede einzelne Zeile und Funktion auseinander zu nehmen und zu verstehen. Das Programm umfasst
+mehr als 200 Zeilen mit denen ich mich morgen auch noch beschäftigen werde bevor ich mich mit einem anderen Thema beschäftige. Ich mag es nicht gern, Aufgaben liegen zu lassen. 
+
+# Tag 31 (30.07.2025):
+
+Routenprogramm weiter Zeile für Zeile durchgehen und kommentieren
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
+

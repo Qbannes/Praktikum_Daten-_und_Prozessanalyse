@@ -238,6 +238,9 @@
   },
   "active": "b876c1132fbdc33e",
   "lastOpenFiles": [
+    "Python/greedy_algorithms_TSP_v.1.1.py",
+    "Python/greedy_algorithms_TSP_v.1.0.py",
+    "Python/greedy_algorithms_TSP_v1.1.py",
     "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
     "Python/greedy_algorithms_TSP.py",
@@ -280,8 +283,6 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/06 - SQL",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/03 - Quantenalgorithmen",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix"
+    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit"
   ]
 }

@@ -33,7 +33,7 @@ fixer_punkt = [startpunkt]
 # Eine neue Liste namens fixer_punkt wird erstellt, und sie enthält zunächst nur den Wert von startpunkt (also 0).
 # Am Anfang enthält diese Liste nur den Startpunkt (Depot), da hier noch kein weiterer Prioritätskunde ausgewählt wurde.
 priority_time_dict = {startpunkt: 0}
-# Initalisierung eines Wörterbuchs '{     }'namens priority_time_dict,
+# Initalisierung eines Wörterbuchs durch '{     }'namens priority_time_dict,
 # das die Ankunftszeiten des Prioritätskunden speichert.
 # Der Schlüssel ist 'startpunkt' mit dem Wert 0 --> 'startpunkt: 0'
 # Dieses Dictionary speichert für jeden Fixpunkt (Prioritätskunden) die späteste erlaubte Ankunftszeit in Minuten ab Start (0 Minuten = Startzeit).
@@ -66,19 +66,28 @@ def solve(event=None):
     # Die Funktion 'solve' erwartet ein optionales Argument 'event',
     # das standardmäßig auf None gesetzt ist, falls kein Ereignis übergeben wird. 
     ## ax.clear()
-    # ax ist hier eine Variable ein sogenanntes Achsenobjekt, die eine Achse (axis) in Matplotlib repräsentiert. 
+    # ax ist hier ein Objekt/Variable ein sogenanntes Achsenobjekt, die eine Achse (axis) in Matplotlib repräsentiert. 
     # ax ist mit der Funktion/Methode clear() durch einen Punkt '.' verbunden, wodurch die Variable auf die Methode clear() zugreift.
     # ax.clear() bleibt hier auskommentiert, das es nicht gebraucht wird, erst dann, wenn sich die Struktur der ANzeige stark ändert z.B.
     # von Karte zu Statistik.
-    ax.scatter(staedte[:, 0], staedte[:, 1], c='blue', label='Kunden')
+    ax.scatter(staedte[:, 0], staedte[:, 1], c='blue')
     # scatter ist eine Methode von Matplotlib, die Punkte auf ein 2D-Diagramm zeichnet. 
-    # 
-    ax.scatter(staedte[fixer_punkt, 0], staedte[fixer_punkt, 1], c='red', s=100, marker='X', label='Fixpunkte (inkl. Start)')
-    ax.scatter(staedte[startpunkt, 0], staedte[startpunkt, 1], c='black', s=140, marker='o',
-               edgecolors='yellow', linewidths=3, label='Start/Ende')
+    # ax.scatter() wird verwendet, um die Städte (Kunden(label='Kunden')) als blaue Punkte (c='blue') im Scatterplott darzustellen.
+    # Hierbei wird die x-Koordinate der Städte aus der ersten Spalte '0' von 'staedte' und die y-Koordinate aus der zweiten Spalte '1' verwendet.
+    # der Doppelpunkt ':' bedeutet, dass alle Zeilen und die Spalten 0 und 1 ausgewählt werden.
+    ax.scatter(staedte[fixer_punkt, 0], staedte[fixer_punkt, 1], c='red', s=100, marker='X')
+    # Hier wird die Liste fixer_punkt verwendet, um die Koordinaten der Fixpunkte (Prioritätskunde) zu zeichnen.
+    ax.scatter(staedte[startpunkt, 0], staedte[startpunkt, 1], c='black', s=500, marker='o',
+               edgecolors='yellow', linewidths=6)
+    # Hier wird der Startpunkt (Depot) als schwarzer Punkt mit gelbem Rand dargestellt.
+    # s=500 gibt die Größe des Punktes an, marker='o' definiert die Form des Punktes als Kreis,
+    # edgecolors='yellow' setzt die Randfarbe auf Gelb und linewidths=3 gibt die Breite des Randes an.
 
-    if len(fixer_punkt) < 2:
-        ax.set_title("Bitte zuerst mindestens einen Prioritätskunden (roter Punkt) wählen!")
+    if len(fixer_punkt) < 2: 
+        # prüft, ob mindestens ein Prioritätskunde ausgewählt wurde
+        # Wenn fixer_punkt weniger als 1 enthält, also noch kein Prioritätskunde ausgewählt wurde,
+        # wird eine Warnung angezeigt: "Bitte zuerst mindestens einen Prioritätskunden (roter Punkt) wählen!"
+        ax.set_title("Bitte zuerst mindestens einen Prioritätskunden (aus den Punkten) wählen!")
         ax.legend()
         plt.draw()
         return
@@ -148,9 +157,9 @@ def solve(event=None):
 
 def show_route(route, info):
     # Fixpunkte und Start/Ende nochmal für saubere Anzeige
-    ax.scatter(staedte[fixer_punkt, 0], staedte[fixer_punkt, 1], c='red', s=100, marker='X', label='Fixpunkte (inkl. Start)')
+    ax.scatter(staedte[fixer_punkt, 0], staedte[fixer_punkt, 1], c='red', s=100, marker='X')
     ax.scatter(staedte[startpunkt, 0], staedte[startpunkt, 1], c='black', s=140, marker='o',
-               edgecolors='yellow', linewidths=3, label='Start/Ende')
+               edgecolors='yellow', linewidths=6)
     arr = np.array([staedte[i] for i in route])
     if len(arr) > 1:
         for i in range(len(arr) - 1):
@@ -188,8 +197,8 @@ def onclick(event):
 
 fig, ax = plt.subplots(figsize=(12, 7))
 scatter = ax.scatter(staedte[:, 0], staedte[:, 1], c='blue', label='Kunden')
-ax.scatter(staedte[startpunkt, 0], staedte[startpunkt, 1], c='black', s=140, marker='o',
-           edgecolors='yellow', linewidths=3, label='Start/Ende')
+ax.scatter(staedte[startpunkt, 0], staedte[startpunkt, 1], c='black', s=300, marker='o',
+           edgecolors='yellow', linewidths=4, label='Start/Ende')
 plt.title("Klicken Sie auf Punkte um Prioritätskunden zu wählen")
 ax_button = plt.axes([0.7, 0.02, 0.2, 0.05])
 button = Button(ax_button, 'Route berechnen', color='lightgoldenrodyellow', hovercolor='0.975')
@@ -202,4 +211,9 @@ fig.canvas.mpl_connect('key_press_event', on_key)
 ax.legend()
 plt.tight_layout()
 plt.show()
-print(priority_time_dict)
+
+
+print('\n\n\n\n--------------\n\n\n')
+print('Ausgaben zum besseren Verständnis der Variablen:')
+print(f'Zeit, um zum Prioritätskunden zu gelangen (priority_time_dict):{priority_time_dict}')
+print(f'Liste fixer_punkt:{fixer_punkt}')
