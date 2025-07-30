@@ -236,8 +236,15 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "b876c1132fbdc33e",
+  "active": "f8d93a710fa7b222",
   "lastOpenFiles": [
+    "Python/wallet_dec.txt",
+    "Python/wallet.enc",
+    "Python/wallet.txt",
+    "Python/Textdokument (neu).txt",
+    "Python/Neuer Ordner",
+    "Python/Quantumcircuit_state_vector.ipynb",
+    "Python/encryption_txt.py",
     "Python/greedy_algorithms_TSP_v.1.1.py",
     "Python/greedy_algorithms_TSP_v.1.0.py",
     "Python/greedy_algorithms_TSP_v1.1.py",
@@ -245,8 +252,6 @@
     "LERNTAGEBUCH.md",
     "Python/greedy_algorithms_TSP.py",
     "Python/best_route_with_priority_client.png",
-    "Python/genetic_algorithms_TSP.py",
-    "Python/genetic_algorithms_TSP.ipynb",
     "Daten- und Prozessanalyse und Quantencomputing.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
@@ -270,7 +275,6 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
@@ -279,10 +283,6 @@
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703123622.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703100630.png",
     "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703095942.png",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703095851.png",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/06 - SQL",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit"
+    "Quantum_Computing_Team/Aufzeichnungen Obsidian/00 - Bilderverzeichnis/Pasted image 20250703095851.png"
   ]
 }

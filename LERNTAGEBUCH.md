@@ -434,3 +434,6 @@ mehr als 200 Zeilen mit denen ich mich morgen auch noch beschäftigen werde bevo
 Routenprogramm weiter Zeile für Zeile durchgehen und kommentieren
 https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
 
+Nutzung des Quantenkomponisten lernen https://quantum.cloud.ibm.com/composer?initial=N4IgjghgzgtiBcIDyAFAogOQIoEEDKAsgAQBMAdAAwDcAOgHYCWdAxgDYCuAJgKZE3jdWDAEYBGMk2b9ademABO3AOZEwAbQAsAXRnNFK5pp316IADQg6EGNwQgAqnQAuDJ626cizBvObtXIAC%2BQA
+
+Anleitung: https://iug.htw-berlin.de/wp-content/uploads/2022/03/Kurs-3-IBM-Quantum-Composer.pdf
