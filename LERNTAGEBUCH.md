@@ -461,3 +461,14 @@ Die Antwort ist ja. Es gibt zu einem Schlüsselloch theoretisch mehrere Schlüss
 
 # Tag 34 04.08.2025):
 
+SQL-Training https://sql-island.informatik.uni-kl.de/
+- Zertifikat: https://sql-island.cs.uni-kl.de/cert.php?id=f2a2ce7e19
+
+[[DOCUMENTATION#Tag 34 04.08.2025)]] 
+
+Ich habe etwas meinen eigentlichen Beruf, den der Daten- und Prozessanalyse etwas aus dem Blick verloren und startete zunächst mal mit der SQL-Insel.
+
+An Algebra führt kein Weg vorbei. Ich habe mich mit dem Buch Daten- und Prozessanalyse für Informatiker beschäftigt und bin im zweiten Kapitel nochmal über Vektoren und Matrizen gestoßen und hatte somit eine gute Auffrischung gehabt, zumal in dem Buch ein paar Aspekte dran kamen über die ich noch nichts wusste, wie zum Beispiel das Kreuzprodukt zweier Vektoren. 
+Das Thema kommt mit in mein Lernbuch [[Daten- und Prozessanalyse und Quantencomputing]].
+
+siehe [[Quests#3. Kreuzprodukt zweier Vektoren.]] 

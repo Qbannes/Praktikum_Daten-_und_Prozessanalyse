@@ -334,3 +334,16 @@ Tisch aufgebaut
 Verschlüsselung mit Python programmiert
 
 [[LERNTAGEBUCH#Tag 33 (01.08.2025)]] 
+
+# Tag 34 04.08.2025):
+
+SQL-Training https://sql-island.informatik.uni-kl.de/
+
+Daten- und Prozessanalyse für Fachinformatiker: 
+- Kapitel 2.2 Lineare Algebra
+	- kartesisches Koordinatensystem
+	- Vektoren und Vektorenrechnung
+	- Fläche Parallelogramm
+	- Matrizen
+
+[[LERNTAGEBUCH#Tag 34 04.08.2025)]] 
