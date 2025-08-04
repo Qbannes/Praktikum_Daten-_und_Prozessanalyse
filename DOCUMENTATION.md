@@ -312,3 +312,25 @@ https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/
 Buch (S.1-32): Weniger schlecht programmieren (Kathrin Passig & Johannes Jander)
 
 [[LERNTAGEBUCH#Tag 30 (29.07.2025)]] 
+
+# Tag 31 (30.07.2025):
+
+Routenprogramm weiter Zeile für Zeile durchgehen und kommentieren
+https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/greedy_algorithms_TSP.py
+
+Nutzung des Quantenkomponisten lernen https://quantum.cloud.ibm.com/composer?initial=N4IgjghgzgtiBcIDyAFAogOQIoEEDKAsgAQBMAdAAwDcAOgHYCWdAxgDYCuAJgKZE3jdWDAEYBGMk2b9ademABO3AOZEwAbQAsAXRnNFK5pp316IADQg6EGNwQgAqnQAuDJ626cizBvObtXIAC%2BQA
+
+Anleitung: https://iug.htw-berlin.de/wp-content/uploads/2022/03/Kurs-3-IBM-Quantum-Composer.pdf
+
+# Tag 32 (31.07.2025)
+
+Quantenschaltkreis Teleportation:
+https://quantum.cloud.ibm.com/composer?initial=N4IgjghgzgtiBcIDyAFAogOQIoEEDKAsgAQBMAdAAwDcAOgHYCWdAxgDYCuAJgKZE3jdWDAEYBGMk2b9ademABO3AOZEwAbQDMAXRnNFK5mpI76AC1VqKJuufWjrzAB4X7AGgvHdz9Vfd3rDABmRAAUzEQAvBFEogCURPKOIQAODPHqnmYWVjIw3NDsii5aRAC0AHxEhvYyQaHhUTHxAF4e1nkFRT4lFVWW1iCuIHQQeQggAKp0AC4M06zcnFUM8szscyAAvkA
+
+# Tag 33 (01.08.2025):
+
+Tisch aufgebaut
+
+Verschlüsselung mit Python programmiert
+
+[[LERNTAGEBUCH#Tag 33 (01.08.2025)]] 

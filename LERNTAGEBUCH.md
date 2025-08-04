@@ -437,3 +437,27 @@ https://github.com/Qbannes/Praktikum_Daten-_und_Prozessanalyse/blob/main/Python/
 Nutzung des Quantenkomponisten lernen https://quantum.cloud.ibm.com/composer?initial=N4IgjghgzgtiBcIDyAFAogOQIoEEDKAsgAQBMAdAAwDcAOgHYCWdAxgDYCuAJgKZE3jdWDAEYBGMk2b9ademABO3AOZEwAbQAsAXRnNFK5pp316IADQg6EGNwQgAqnQAuDJ626cizBvObtXIAC%2BQA
 
 Anleitung: https://iug.htw-berlin.de/wp-content/uploads/2022/03/Kurs-3-IBM-Quantum-Composer.pdf
+
+Es vergeht gerade sehr viel Zeit für das kommentieren des Routenprogramms. Ich kommentiere fast jede Zeile und breche sie auseinander und und prüfe und teste auch einige Sektionen des Programms. Ich lege besonderen Wert darauf und habe mich fast ausschließlich fast nur damit befasst das Programmieren besser zu können. Einen Quantenschaltkreis nach Anleitung zu bauen war die Abwechslung, die ich am Ende des Tages dringend brauchte. 
+# Tag 32 (31.07.2025)
+
+Quantenschaltkreis Teleportation:
+https://quantum.cloud.ibm.com/composer?initial=N4IgjghgzgtiBcIDyAFAogOQIoEEDKAsgAQBMAdAAwDcAOgHYCWdAxgDYCuAJgKZE3jdWDAEYBGMk2b9ademABO3AOZEwAbQDMAXRnNFK5mpI76AC1VqKJuufWjrzAB4X7AGgvHdz9Vfd3rDABmRAAUzEQAvBFEogCURPKOIQAODPHqnmYWVjIw3NDsii5aRAC0AHxEhvYyQaHhUTHxAF4e1nkFRT4lFVWW1iCuIHQQeQggAKp0AC4M06zcnFUM8szscyAAvkA
+
+[[DOCUMENTATION#Tag 32 (31.07.2025)]] 
+
+Zu meinem Bedauern lief der Schaltkreis nicht auf der Hardware bei IBM. Es scheint, als sei die Hardware nicht die richtige. Ich werde der Sache ein anderes Mal nachgehen.
+
+# Tag 33 (01.08.2025):
+
+Tisch aufgebaut
+
+Verschlüsselung mit Python
+
+[[DOCUMENTATION#Tag 33 (01.08.2025)]]
+
+John und ich hatten uns gefragt, dass ein Passwort irgendwo auf dem Speicher zu finden sein muss. Wenn man sein Passwort eingibt muss es ja abgeglichen werden. Ich lernte, dass die Verschlüsselung einer Datei zum Beispiel mit AES-256-CBC erfolgt. Das angelegte Passwort wird in einen Hash-Wert umgewandelt und auf dem Medium gespeichert. Der Hash-Wert ist nicht rekonstruierbar, da er nur einen Teil des Schlüssels abbildet. Gibt man nun sein Passwort ein, wird dieses in einen Hashwert umgewandelt und mit dem gespeicherten Hashwert verglichen. Bei Übereinstimmung gelangt man an die verschlüsselte Datei.  Jetzt ist die Frage: gibt es dann mehrere Schlüssel, die zu dem gespeicherten Hashwert passen?
+Die Antwort ist ja. Es gibt zu einem Schlüsselloch theoretisch mehrere Schlüssel die passen würden, allerdings ist das extrem selten. 
+
+# Tag 34 04.08.2025):
+
