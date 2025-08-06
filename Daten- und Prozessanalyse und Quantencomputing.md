@@ -3,6 +3,10 @@
 
 ## Lineare Algebra [[Daten- und Prozessanalyse und Quantencomputing#Lineare Algebra]] 
 
+
+
+
+
 ## Python
 
 ### - Funktionen [[Daten- und Prozessanalyse und Quantencomputing#Python - Funktionen]] 
@@ -104,6 +108,10 @@ $$
 Menge der reellen Zahlen 
 $$\mathbb{R}= \{\frac{1}{3},4,0.33,3.14159,\dots\}$$
 
+
+## Matrizen
+
+### Kreuzprodukt
 
 
 

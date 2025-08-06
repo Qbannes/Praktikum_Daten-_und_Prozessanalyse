@@ -472,3 +472,14 @@ An Algebra führt kein Weg vorbei. Ich habe mich mit dem Buch Daten- und Prozess
 Das Thema kommt mit in mein Lernbuch [[Daten- und Prozessanalyse und Quantencomputing]].
 
 siehe [[Quests#3. Kreuzprodukt zweier Vektoren.]] 
+
+
+# Tag 35 (05.08.2025):
+
+Anfertigung Antrag und gutachterliche Stellungnahme für die Beantragung eines Laptops beim Kostenträger
+
+Ergebnisse der Quantenschaltkreise von IBM über Qiskit ziehen und auswerten
+
+[[DOCUMENTATION#Tag 35 (05.08.2025)]] 
+
+Jupyter Notebook, das über Anaconda läuft hat nicht die richtigen Pakete von Qiskit installiert. 

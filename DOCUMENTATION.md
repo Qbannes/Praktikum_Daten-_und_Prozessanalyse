@@ -347,3 +347,12 @@ Daten- und Prozessanalyse für Fachinformatiker:
 	- Matrizen
 
 [[LERNTAGEBUCH#Tag 34 04.08.2025)]] 
+
+
+# Tag 35 (05.08.2025):
+
+Anfertigung Antrag und gutachterliche Stellungnahme für die Beantragung eines Laptops beim Kostenträger
+
+Ergebnisse der Quantenschaltkreise von IBM über Qiskit ziehen und auswerten
+
+[[LERNTAGEBUCH#Tag 35 (05.08.2025)]] 
