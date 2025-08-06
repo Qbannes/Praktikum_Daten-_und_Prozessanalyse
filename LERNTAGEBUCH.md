@@ -480,6 +480,53 @@ Anfertigung Antrag und gutachterliche Stellungnahme für die Beantragung eines L
 
 Ergebnisse der Quantenschaltkreise von IBM über Qiskit ziehen und auswerten
 
+Webinar: Classical Critical via Quantum Annealing
+
 [[DOCUMENTATION#Tag 35 (05.08.2025)]] 
 
-Jupyter Notebook, das über Anaconda läuft hat nicht die richtigen Pakete von Qiskit installiert. 
+Jupyter Notebook, das über Anaconda läuft, hat nicht die richtigen Pakete von Qiskit installiert. Ich muss hier noch die richtige Komposition der unterschiedlichen Versionen finden.
+
+
+Die wichtigsten Kernaussagen, die das Webinar vermittelt und die ich in meiner Zusammenfassung wiedergegeben habe, sind:
+
+- Quantum Annealing liefert probabilistische Lösungen, die einer Boltzmann-Verteilung folgen, bei der energetisch günstigere Zustände wahrscheinlicher sind.
+
+- Der Mechanismus basiert auf einem zeitabhängigen Hamiltonian, der von einem einfachen Startzustand zu einem Problem-Hamiltonian hin annealiert wird.
+
+- Die Wahl der Annealing-Zeit ist kritisch für die Qualität und Stabilität der Ergebnisse, da zu lange Zeiten Umwelteinflüsse und Störungen begünstigen.
+
+- Temperaturkontrolle ist eine Herausforderung und erfolgt indirekt über Skalierung der Kopplungsstärken.
+
+- Quantum Annealer können komplexe physikalische Phänomene wie Phasenübergänge und kritische Punkte experimentell untersuchen, exemplarisch gezeigt am Piled-Up Dominoes (PUD) Modell.
+
+- Die Messergebnisse stimmen gut mit theoretisch bekannten Lösungen überein.
+
+- Ein großer Vorteil von Quantum Annealing gegenüber klassischen Monte Carlo Methoden ist das Umgehen des Problems des „critical slowing down“, da bei Quantum Annealing die Samples physikalisch unabhängig sind.
+
+- Damit eröffnen Quantum Annealer neue Möglichkeiten für die Forschung zu komplexen Systemen und Optimierungsproblemen.
+
+
+Diese Punkte bilden die essenzielle Botschaft und den wissenschaftlichen Mehrwert der präsentierten Inhalte.
+
+
+
+# Tag 36 (06.08.2025):
+
+Zusammenfassung des gestrigen Webinars: Classical Critical via Quantum Annealing
+[[quantenannealing]] 
+
+Boltzmann Verteilung und Herleitung https://www.youtube.com/watch?v=QdGsEVbrBYM , https://www.youtube.com/watch?v=6yv80yg-uOc
+
+Galton-Brett https://www.youtube.com/watch?v=CFYUD9YwVIE
+
+,,Warum ich die Quantencomputing-Forschung verließ" https://www.youtube.com/watch?v=pDj1QhPOVBo
+
+Die größte Lüge über das Doppelspaltexperiment https://www.youtube.com/watch?v=fbzHNBT0nl0
+
+Änderung/Anpassung der gutachterlichen Stellungnahme für den Antrag auf einen Laptop bei meinem Kostenträger.
+
+Das gestrige Webinar war sehr technisch und zeigte die Vorteile von Quantum Annealing. Quantum Annealing ermöglicht eine effiziente, robuste und experimentell bestätigte Analyse komplexer physikalischer Systeme und kritischer Phänomene, auch in Fällen, in denen klassische Simulationsmethoden an ihre Grenzen stoßen. Es eröffnet neue Perspektiven für Forschung und Anwendung, auch wenn die Kontrolle über Parameter wie die Temperatur weiterhin herausfordernd bleibt, denn diese kann bisher nur indirekt gesteuert werden. 
+
+Die technische Seite des Webinars beinhaltete unter anderem die Boltzmann-Verteilung. Die Boltzmann-Verteilung zeigt auf, wie sich Energie in einem System verteilt. Sie verteilst sich nämlich gleichmäßig nach einer bestimmten Wahrscheinlichkeit auch sehr gut zu sehen in dem Experiment (siehe Link weiter oben zu Boltzmann-Verteilung und Galton-Brett)
+
+Durch den Youtube Algorithmus bin ich auf einen Wissenschaftler gestoßen, der aus der Quantencomputing-Forschung ausgetreten ist, weil nach Ansicht der Person der Hype um Quantencomputing die Realität noch nicht eingeholt hätte. Es gibt keine Software, keine Algorithmen die Probleme lösen. 

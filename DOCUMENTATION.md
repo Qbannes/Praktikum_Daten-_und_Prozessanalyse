@@ -355,4 +355,23 @@ Anfertigung Antrag und gutachterliche Stellungnahme für die Beantragung eines L
 
 Ergebnisse der Quantenschaltkreise von IBM über Qiskit ziehen und auswerten
 
+Webinar: Classical Critical via Quantum Annealing
+
 [[LERNTAGEBUCH#Tag 35 (05.08.2025)]] 
+
+# Tag 36 (06.08.2025):
+
+Zusammenfassung des gestrigen Webinars: Classical Critical via Quantum Annealing
+[[quantenannealing]] 
+
+Boltzmann Verteilung und Herleitung https://www.youtube.com/watch?v=QdGsEVbrBYM , https://www.youtube.com/watch?v=6yv80yg-uOc
+
+Galton-Brett https://www.youtube.com/watch?v=CFYUD9YwVIE
+
+,,Warum ich die Quantencomputing-Forschung verließ" https://www.youtube.com/watch?v=pDj1QhPOVBo
+
+Die größte Lüge über das Doppelspaltexperiment https://www.youtube.com/watch?v=fbzHNBT0nl0
+
+Änderung/Anpassung der gutachterlichen Stellungnahme für den Antrag auf einen Laptop bei meinem Kostenträger.
+
+[[LERNTAGEBUCH#Tag 36 (06.08.2025)]] 
