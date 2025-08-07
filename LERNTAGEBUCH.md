@@ -533,4 +533,9 @@ Durch den Youtube Algorithmus bin ich auf einen Wissenschaftler gestoßen, der a
 
 # Tag 37 (07.08.2025):
 
+Finale Korrektur Stellungsnahme für Antrag Laptop beim Kostenträger
+
+Ricardas Lernprogramm getestet, Fazit: untauglich und nicht brauchbar
+
+Gitprobleme: Subordner in Github öffnen. Gefixed: Subordnerstatus aus Git entfernt
 
