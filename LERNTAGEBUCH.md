@@ -530,3 +530,7 @@ Das gestrige Webinar war sehr technisch und zeigte die Vorteile von Quantum Anne
 Die technische Seite des Webinars beinhaltete unter anderem die Boltzmann-Verteilung. Die Boltzmann-Verteilung zeigt auf, wie sich Energie in einem System verteilt. Sie verteilst sich nämlich gleichmäßig nach einer bestimmten Wahrscheinlichkeit auch sehr gut zu sehen in dem Experiment (siehe Link weiter oben zu Boltzmann-Verteilung und Galton-Brett)
 
 Durch den Youtube Algorithmus bin ich auf einen Wissenschaftler gestoßen, der aus der Quantencomputing-Forschung ausgetreten ist, weil nach Ansicht der Person der Hype um Quantencomputing die Realität noch nicht eingeholt hätte. Es gibt keine Software, keine Algorithmen die Probleme lösen. 
+
+# Tag 37 (07.08.2025):
+
+

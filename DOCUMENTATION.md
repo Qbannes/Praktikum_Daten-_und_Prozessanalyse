@@ -375,3 +375,6 @@ Die größte Lüge über das Doppelspaltexperiment https://www.youtube.com/watch
 Änderung/Anpassung der gutachterlichen Stellungnahme für den Antrag auf einen Laptop bei meinem Kostenträger.
 
 [[LERNTAGEBUCH#Tag 36 (06.08.2025)]] 
+
+# Tag 37 (07.08.2025):
+

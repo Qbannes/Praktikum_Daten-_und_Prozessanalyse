@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,10 +250,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "2c240c2a3aa89f9d",
+  "active": "4ab6d7b5d3dc3004",
   "lastOpenFiles": [
-    "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
+    "DOCUMENTATION.md",
     "Daten- und Prozessanalyse und Quantencomputing.md",
     "quantenannealing.md",
     "images/DOCUMENTATION.md",
