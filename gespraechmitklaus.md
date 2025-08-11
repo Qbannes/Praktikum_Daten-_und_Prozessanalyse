@@ -28,3 +28,20 @@
 - GraphQl, Nas 4 Jey, ArrangoDB, TigerDB
 - Knowledge Graph Database:
 	- Das Wissen eines scheidenden Mitarbeiters in digitaler Form komplett aufrechtzuerhalten im Unternehmen
+
+
+# 07.08.2025
+- Klaus sagt, dass ein hoher Zins auf Kredite Entwicklungsländern dazu bewegen sich mehr zu bemühen, um das Geld, sowie sich Mitarbeiter in Anwesenheit Ihres Vorgesetzten fleißiger seien. -> Daten sammeln, um zu sehen ob, an der These etwas dran ist. 
+- USA Wirtschaftszahlen 2020 - 2025
+- Steuerentlastungen für Geringverdiener und mittleres Einkommen
+- Zahlen zu Bevölkerungszuwachs Weltweit und Vergleich Industrienationen mit Entwicklungs- und Schwellenländern
+- Klaus angeboten, das Buch von David Weil Economic Growth mitzubringen
+- [[Quests]] 
+
+# 08.08.2025
+- Bis Ende August brauchen wir Handfeste Ergebnisse und eine klare Zielrichtung mit Quantencomputing: Wo können wir damit hin? Andernfalls Abbruch des Projekts.
+- Zukunftsforschunginstitut: Peking hat mit Quantencomputing den Flugehafenverkehr der Taxis abgewickelt
+- Unitry Roboter aus China 2025
+- Tesler Roboter 2025
+- Rotterdam: erstes skalierbares Quantennetzwerk zur Kommunikation errichtet
+- Bezüglich Fördermittel: 

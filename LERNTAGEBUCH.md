@@ -539,3 +539,22 @@ Ricardas Lernprogramm getestet, Fazit: untauglich und nicht brauchbar
 
 Gitprobleme: Subordner in Github öffnen. Gefixed: Subordnerstatus aus Git entfernt
 
+
+
+# Tag 38 (08.08.2025):
+
+Wirtschaftsdatenbankenrecherche (Haver Analytics)
+
+Improving english skills mit Anki und Beelinguapp
+
+
+
+
+
+# Tag 39 (11.08.2025):
+
+Groveralgorithmus vs. Linearer Suchalgorithmus 
+
+Fixen von Fehlern
+
+Erfolgreiches Ausführen des Programms
