@@ -10,7 +10,7 @@ def linear_search(items, target):
 
 
 def grover_simulation(n_qubits):
-    """Optimierte Grover-Simulation für bis zu 7 Qubits (max. 128 Items)"""
+    """Optimierte Grover-Simulation für bis zu 7 Qubits (max. 2097152 Items)"""
     qc = QuantumCircuit(n_qubits)
 
     qc.h(range(n_qubits))
@@ -34,8 +34,8 @@ def grover_simulation(n_qubits):
 
 
 def compare_algorithms():
-    """Vergleich mit bis zu 128 Items und verbesserter Visualisierung"""
-    sizes = [2 ** n for n in range(1, 10)]  # 2,4,8,16,32,64,128, 256
+    """Vergleich mit bis zu 2097152 Items und verbesserter Visualisierung"""
+    sizes = [2 ** n for n in range(1, 21)]  # 2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,16384,32768,65536, 131072, 262144, 524288, 1048576, 2097152
     classical_times = []
     quantum_times = []
 
@@ -49,7 +49,7 @@ def compare_algorithms():
         ])
 
         # Quantensimulation jetzt bis 128 Items
-        if size >= 4 and size <= 512:
+        if size >= 4 and size <= 2097152:
             quantum_time = grover_simulation(int(np.log2(size)))
         else:
             quantum_time = np.nan
@@ -69,14 +69,14 @@ def compare_algorithms():
     plt.yscale('log')
     plt.xlabel('Anzahl der Elemente (log-Skala)')
     plt.ylabel('Zeit (Sekunden, log-Skala)')
-    plt.title('Leistungsvergleich: Klassisch vs. Quanten (bis 128 Elemente)')
+    plt.title('Leistungsvergleich: Klassisch vs. Quanten (bis 2097152 Elemente)')
     plt.legend()
     plt.grid(True, which="both", ls="--")
-    plt.savefig('vergleich_128.png', dpi=300, bbox_inches='tight')
+    plt.savefig('vergleich_2097152.png', dpi=600, bbox_inches='tight')
     plt.show()
 
 
 if __name__ == "__main__":
     import timeit
-    print("=== Leistungsvergleich (bis zu 128 Elemente) ===")
+    print("=== Leistungsvergleich (bis zu 2097152 Elemente) ===")
     compare_algorithms()

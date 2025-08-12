@@ -533,13 +533,15 @@ Durch den Youtube Algorithmus bin ich auf einen Wissenschaftler gestoßen, der a
 
 # Tag 37 (07.08.2025):
 
-Finale Korrektur Stellungsnahme für Antrag Laptop beim Kostenträger
+Finale Korrektur Stellungnahme für Antrag Laptop beim Kostenträger
 
 Ricardas Lernprogramm getestet, Fazit: untauglich und nicht brauchbar
 
 Gitprobleme: Subordner in Github öffnen. Gefixed: Subordnerstatus aus Git entfernt
 
+Wieder einmal wird man aufgehalten von vermeintlichen Kleinigkeiten, die von einem mindestens ein Grundverständnis erfordern, um gelöst zu werden. Mein Repository hat mir Probleme bereitet, die ich selbst verursacht hatte. Ich habe Dateien eines anderen Repository in ein bestehendes auf meinem Computer eingefügt und mich seit Tagen gewundert, warum ich Fehlermeldungen von GitKraken erhalte, wenn ich Änderungen stagen und pushen wollte. Nach Stundenlangem rumprobieren und habe ich dann herausgefunden, dass es an der Verschiebung der Dateien lag. GitKraken oder Git besser gesagt hat das eingefügte Repositpory als Subordner geführt welches nicht gestaged werden konnte, da es in dem Ordner eine Git-Datei gab, die das ganze verhinderte. Erst durch entfernen dieser Datei war das Problem beim Stagen behoben. KI konnte mir hier nicht wirklich helfen, denn es hat ganz andere Ursachen und Lösungen angeführt, aber es half mir, dem Fehler auf die Schliche zu kommen. 
 
+[[DOCUMENTATION#Tag 37 (07.08.2025)]] 
 
 # Tag 38 (08.08.2025):
 
@@ -547,14 +549,34 @@ Wirtschaftsdatenbankenrecherche (Haver Analytics)
 
 Improving english skills mit Anki und Beelinguapp
 
+Englisch ist leider zu kurz gekommen bis gar nicht. In den Webinaren, die bisher ausschließlich auf Englisch geführt waren ist es ungeheuer anstrengend für mich zuzuhören. Wenn Deutsche Englisch sprechen, verstehe ich es am besten. Deshalb werde ich in Zukunft in meiner Freizeit englische Filme gucken. Angefangen mit Kinderfilmen und Serien. 
 
-
+[[DOCUMENTATION#Tag 38 (08.08.2025)]]  
 
 
 # Tag 39 (11.08.2025):
 
-Groveralgorithmus vs. Linearer Suchalgorithmus 
+Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus 
 
 Fixen von Fehlern
 
 Erfolgreiches Ausführen des Programms
+
+Kaum ist ein ganzer Tag vergangen, tauchte wieder ein vermeintlich kleines Problem aus, welches schon wieder Recherche verlangte, um es zu lösen. Und die war nicht zu knapp. Da ewig leidige Thema mit Python und der Programmierschnittstelle Qiskit. Qiskit hat viele Pakete, die aber nicht alle zur aktuellen Pythonversion 3.13.x passen. Die Lösung war nach stundenlangem Installieren und Deinstallieren, eine virtuelle Umgebung einzurichten, in der ich die kompatiblen Versionen installiert  habe, nachdem ich diese auch erstmal finden musste. Man lernt unfreiwillig viele interdisziplinäre Dinge, was gut oder auch weniger gut sein. 
+
+[[DOCUMENTATION#Tag 39 (11.08.2025)]] 
+
+
+# Tag 40 (12.08.2025):
+
+Groveralgorithmus vs. Linearer Suchalgorithmus:
+- Änderungen am Programm und evtl. noch eine Erweiterung für Quantenhardware
+
+SourceGit einrichten
+
+Qiskit lernen https://quantum.cloud.ibm.com/docs/de
+- Bellsche Ungleichung (CHSH) https://www.youtube.com/watch?v=unndv2WasXk , https://www.youtube.com/watch?v=-DBEfuIoRyI
+- konstruktive und destruktive Interferenz https://www.youtube.com/watch?v=-e3KwtRyLKg
+Welche Quantencomputer es gibt und wie weit die Algoritmen sind: https://industrieanzeiger.industrie.de/technik/fertigung/forschung-und-entwicklung-arbeiten-an-praxistauglichen-quantentechnologien/
+
+Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUndLinearOnIBM.jpynb) erweitert für IBM-Hardware

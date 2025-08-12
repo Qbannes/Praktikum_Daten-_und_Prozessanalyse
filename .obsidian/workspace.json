@@ -83,26 +83,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCUMENTATION.md",
+                "file": "LERNTAGEBUCH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOCUMENTATION"
+              "title": "LERNTAGEBUCH"
             }
           },
           {
-            "id": "2ff190bfdad3ca81",
+            "id": "2228bb369ad2a8d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests.md",
+                "file": "Willkommen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quests"
+              "title": "Willkommen"
+            }
+          },
+          {
+            "id": "ccc150f0bc878e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernplan - Quantencomputing für Data Scientists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lernplan - Quantencomputing für Data Scientists"
             }
           }
         ],
@@ -179,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LERNTAGEBUCH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweis"
+              "title": "Rückverweise für LERNTAGEBUCH"
             }
           },
           {
@@ -252,50 +267,51 @@
   },
   "active": "2c240c2a3aa89f9d",
   "lastOpenFiles": [
-    "LERNTAGEBUCH.md",
-    "DOCUMENTATION.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/fake_provider/backends/armonk/__pycache__/__init__.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/fake_provider/backends/armonk/__pycache__/fake_armonk.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/fake_provider/backends/armonk/__pycache__",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/debug_tools/__pycache__/__init__.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/debug_tools/__pycache__/neat_results.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/debug_tools/__pycache__/neat.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/debug_tools/__pycache__",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/api/__pycache__/__init__.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/api/__pycache__/session.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/api/__pycache__/exceptions.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/qiskit_ibm_runtime/api/__pycache__/client_parameters.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/IPython/core/tests/2x2.png",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/IPython/core/tests/2x2.jpg",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pyzmq-27.0.1.dist-info/licenses/LICENSE.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/zmq/backend/cffi/README.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32comext/axscript/Demos/client/ie/pycom_blowing.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/pythoncom.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/www_icon.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/pycom_blowing.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/BTN_PrevPage.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/BTN_NextPage.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/BTN_ManualTop.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/win32com/HTML/image/BTN_HomePage.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/scipy/fft/_pocketfft/LICENSE.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/numpy/random/LICENSE.md",
+    "Lernplan - Quantencomputing für Data Scientists.md",
     "Daten- und Prozessanalyse und Quantencomputing.md",
-    "gespraechmitklaus.md",
-    "Python_JNotebook/settings.json",
-    "Python_JNotebook/VergleichGroverUndLinear.py",
-    "Python_JNotebook/comparison.png",
-    "Python_JNotebook/test.py",
-    "Python_JNotebook/VergleicchGroverUndLinear.py",
-    "Python_JNotebook/Untitled.ipynb",
-    "Quests.md",
-    "Python_JNotebook/Learn_Python/out.txt",
-    "Python_JNotebook/Learn_Python/HelloName.py",
-    "Python_JNotebook/Learn_Python/Python Grundkurs.ipynb",
-    "Python_JNotebook/Learn_Python/readme.txt",
-    "Python_JNotebook/Learn_Python/loesungen-kap15-io/text-file.py",
-    "Python_JNotebook/Learn_Python/kap20-science/tempplot.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus.jpg",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus-highres.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus-exp.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus-exp-grid.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus-cosinus-2.png",
-    "Python_JNotebook/Learn_Python/kap20-science/sinus-cosinus-1.png",
-    "Python_JNotebook/Learn_Python/kap20-science/plot-in-array.png",
-    "Quantum_Computing_Team/Python/Jupyter Notebook/Sortieralgorithmen/Sortieralgorithmen-Einlesen_und_Speichern_von_CSV.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/06 - echter Zufall vs. Pseudozufall (technisch und mathematisch).md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/05 - Vergleich.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/04 - Echte Ergebnisse!.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/01 - Code Quantenzufall.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren/04 - Darstellung von Zufallszahlen.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren/03 - Konkrete Zufallsgeneratoren.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren/02 - Deterministische Zufallsgeneratoren.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/06 - SQL/02 - Klammern sind sehr wichtig.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/06 - SQL/01 - SQL - Island.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit/03 - Zufallsalgorithmus.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit/02 - Transpilieren.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/05 - Qiskit/01 - Visualisierung eines Quantencircuits.md",
-    "Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix/02 - Ergebnis (Heatmap).md"
+    "LERNTAGEBUCH.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix/02 - Ergebnis (Heatmap).md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/04 - Distanzmatrix/01 - Distanzmatrix.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/02 - Verschränkung.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
+    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/02 - Verschränkung.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
+    "Praktikum_Daten-_und_Prozessanalyse/quantenannealing.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Python/Jupyter Notebook/Sortieralgorithmen/Sortieralgorithmen-Einlesen_und_Speichern_von_CSV.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/05 - Vergleich.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/04 - Echte Ergebnisse!.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
+    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/08 - Projekt Zufall/01 - Code Quantenzufall.md"
   ]
 }
