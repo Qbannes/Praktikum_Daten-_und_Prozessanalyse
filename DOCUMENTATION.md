@@ -402,3 +402,25 @@ Groveralgorithmus vs. Linearer Suchalgorithmus
 Fixen von Fehlern
 
 Erfolgreiches Ausführen des Programms
+
+# Tag 40 (12.08.2025):
+
+Groveralgorithmus vs. Linearer Suchalgorithmus:
+- Änderungen am Programm und evtl. noch eine Erweiterung für Quantenhardware
+
+SourceGit einrichten
+
+Qiskit lernen https://quantum.cloud.ibm.com/docs/de
+- Bellsche Ungleichung (CHSH) https://www.youtube.com/watch?v=unndv2WasXk , https://www.youtube.com/watch?v=-DBEfuIoRyI
+- konstruktive und destruktive Interferenz https://www.youtube.com/watch?v=-e3KwtRyLKg
+Welche Quantencomputer es gibt und wie weit die Algoritmen sind: https://industrieanzeiger.industrie.de/technik/fertigung/forschung-und-entwicklung-arbeiten-an-praxistauglichen-quantentechnologien/
+
+Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUndLinearOnIBM.jpynb) erweitert für IBM-Hardware
+
+[[LERNTAGEBUCH#Tag 40 (12.08.2025)]] 
+
+# Tag 41 (12.08.2025):
+
+- VergleichGroverUndLinearOnIBM.ipynb weiter zuende programmiert
+- 
+[[LERNTAGEBUCH#Tag 41 (12.08.2025)]] 

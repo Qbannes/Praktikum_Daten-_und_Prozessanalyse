@@ -580,3 +580,13 @@ Qiskit lernen https://quantum.cloud.ibm.com/docs/de
 Welche Quantencomputer es gibt und wie weit die Algoritmen sind: https://industrieanzeiger.industrie.de/technik/fertigung/forschung-und-entwicklung-arbeiten-an-praxistauglichen-quantentechnologien/
 
 Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUndLinearOnIBM.jpynb) erweitert für IBM-Hardware
+
+[[DOCUMENTATION#Tag 40 (12.08.2025)]] 
+
+# Tag 41 (12.08.2025):
+
+- VergleichGroverUndLinearOnIBM.ipynb weiter zuende programmiert
+
+Das Programm hat den ganzen Tag lang Schwierigkeiten gemacht. Nach jedem Start ein neuer Fehler und das zog sich über den ganzen Tag. Erst waren es wieder die Qiskitversionen, die nicht gepasst haben, dann waren es unterschiedliche Qiskitversionen die Parallel irgendwo auf dem Rechner existiert haben und zu guter Letzt eine Menge neuer Import- und Methodenregeln, die alle mit viel Mühe aus der Qiskit-Doc bei IBM nachgeschaut werden mussten. 
+
+[[DOCUMENTATION#Tag 41 (12.08.2025)]] 
