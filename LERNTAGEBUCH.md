@@ -583,10 +583,16 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 
 [[DOCUMENTATION#Tag 40 (12.08.2025)]] 
 
-# Tag 41 (12.08.2025):
+# Tag 41 (13.08.2025):
 
 - VergleichGroverUndLinearOnIBM.ipynb weiter zuende programmiert
 
 Das Programm hat den ganzen Tag lang Schwierigkeiten gemacht. Nach jedem Start ein neuer Fehler und das zog sich über den ganzen Tag. Erst waren es wieder die Qiskitversionen, die nicht gepasst haben, dann waren es unterschiedliche Qiskitversionen die Parallel irgendwo auf dem Rechner existiert haben und zu guter Letzt eine Menge neuer Import- und Methodenregeln, die alle mit viel Mühe aus der Qiskit-Doc bei IBM nachgeschaut werden mussten. 
 
-[[DOCUMENTATION#Tag 41 (12.08.2025)]] 
+[[DOCUMENTATION#Tag 41 (13.08.2025)]]  
+
+
+# Tag 42 (14.08.2025):
+
+- VergleichGroverUndLinearOnIBM.ipynb starten und die Ergebnisse auswerten
+- Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer 

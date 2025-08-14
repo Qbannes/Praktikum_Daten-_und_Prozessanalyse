@@ -419,8 +419,14 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 
 [[LERNTAGEBUCH#Tag 40 (12.08.2025)]] 
 
-# Tag 41 (12.08.2025):
+# Tag 41 (13.08.2025):
 
 - VergleichGroverUndLinearOnIBM.ipynb weiter zuende programmiert
-- 
+
+
 [[LERNTAGEBUCH#Tag 41 (12.08.2025)]] 
+
+# Tag 42 (14.08.2025):
+
+- VergleichGroverUndLinearOnIBM.ipynb starten und die Ergebnisse auswerten
+- Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer 
