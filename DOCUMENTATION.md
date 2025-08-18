@@ -430,3 +430,11 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 
 - VergleichGroverUndLinearOnIBM.ipynb starten und die Ergebnisse auswerten
 - Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer 
+[[LERNTAGEBUCH#Tag 42 (14.08.2025)]] 
+# Tag 43 (18.08.2025):
+
+- Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer  schlug fehl, da zu wenig Qubits zur Verfügung stehen
+- kleineres Routingprogramm mit Jupyter erstellt von 44 Punkte auf 4 Punkte
+		- SmallerRoutingOnIBM.jpynb
+
+[[LERNTAGEBUCH#Tag 43 (18.08.2025)]] 

@@ -596,3 +596,14 @@ Das Programm hat den ganzen Tag lang Schwierigkeiten gemacht. Nach jedem Start e
 
 - VergleichGroverUndLinearOnIBM.ipynb starten und die Ergebnisse auswerten
 - Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer 
+
+Das Auswerten der Ergebnisse meiner Suchalgorithmenvergleichs habe ich nicht mehr geschafft und verschiebe ich
+[[DOCUMENTATION#Tag 42 (14.08.2025)]] 
+# Tag 43 (18.08.2025):
+
+- Programmierung QOAO-Algorithmus gegen klassischen Algortihmus beim Routing (TSP-Problem) auf Quantencomputer  schlug fehl, da zu wenig Qubits zur Verfügung stehen
+- kleineres Routingprogramm mit Jupyter erstellt von 44 Punkte auf 4 Punkte
+		- SmallerRoutingOnIBM.jpynb
+
+Schmerzlich musste ich feststellen dass die Rutenberechnung unter 44 Punkten mit 133 Qubits nicht funktionieren, aber warum ist das so? Das will ich noch herausfinden. Ich musste heute ein Programm schreiben, dass sich auch 5 Punkte beschränkt.
+[[DOCUMENTATION#Tag 43 (18.08.2025)]] 
