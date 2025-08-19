@@ -438,3 +438,8 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 		- SmallerRoutingOnIBM.jpynb
 
 [[LERNTAGEBUCH#Tag 43 (18.08.2025)]] 
+
+# Tag 44 (19.08.2025):
+
+- Fortführung des kleinen Routingprogramms
+[[LERNTAGEBUCH#Tag 44 (19.08.2025)]] 

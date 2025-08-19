@@ -607,3 +607,11 @@ Das Auswerten der Ergebnisse meiner Suchalgorithmenvergleichs habe ich nicht meh
 
 Schmerzlich musste ich feststellen dass die Rutenberechnung unter 44 Punkten mit 133 Qubits nicht funktionieren, aber warum ist das so? Das will ich noch herausfinden. Ich musste heute ein Programm schreiben, dass sich auch 5 Punkte beschränkt.
 [[DOCUMENTATION#Tag 43 (18.08.2025)]] 
+
+# Tag 44 (19.08.2025):
+
+- Fortführung des kleinen Routingprogramms
+
+[[DOCUMENTATION#Tag 44 (19.08.2025)]] 
+
+Heute ist das Routingprogramm fertig geworden und ich konnte immerhin in einem Plot von 4 Punkten eine optimale Route finden lassen durch die Hardware von IBM. Morgen werde ich das Programm erweitern und die Koordinaten auf dem Plot selber wählen mit der Maus. Zuvor wurden sie algorithmisch festgelegt. Das Programm hat bei IBM über 100 Qubits belegt von 133 möglichen. Sobald IBM mehr Qubits zur Verfügung stellt im Free-Plan, kann ich die Anzahl der Koordinaten erhöhen, was eine Simulation für alltagsähnliche Zustände zulassen würde. 
