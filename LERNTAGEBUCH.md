@@ -615,3 +615,25 @@ Schmerzlich musste ich feststellen dass die Rutenberechnung unter 44 Punkten mit
 [[DOCUMENTATION#Tag 44 (19.08.2025)]] 
 
 Heute ist das Routingprogramm fertig geworden und ich konnte immerhin in einem Plot von 4 Punkten eine optimale Route finden lassen durch die Hardware von IBM. Morgen werde ich das Programm erweitern und die Koordinaten auf dem Plot selber wählen mit der Maus. Zuvor wurden sie algorithmisch festgelegt. Das Programm hat bei IBM über 100 Qubits belegt von 133 möglichen. Sobald IBM mehr Qubits zur Verfügung stellt im Free-Plan, kann ich die Anzahl der Koordinaten erhöhen, was eine Simulation für alltagsähnliche Zustände zulassen würde. 
+
+# Tag 45 (20.08.2025):
+
+- Quantencomputer von SpinQ (3 Qubits) anschauen https://www.youtube.com/watch?v=iCFRtPnQvXI&t=315s
+- Voraussetzungen für Bilderkennung 4x4 Pixel
+- Quantum-Machine-Learning (QMM) in Jupyter
+[[DOCUMENTATION#Tag 45 (20.08.2025)]] 
+
+Klaus hatte mir von einem Quantencomputer für den Schreibtisch erzählt und wunderte sich, dass ich darüber noch nichts wusste, da ich schon mehr als zwei Monate im Betrieb bin. Als ich mir das Gerät heute anschaute im Internet, war ich im Nachgang auch froh davon noch nichts gewusst zu haben. Mehr als Experimente mit Schaltkreisen zu machen war nicht drin.
+
+Heute habe ich mich dran versucht ein Programm über Qiskit laufen zu lassen, dass Bilder erkennen sollte. Die Bilder mussten zunächst runterskaliert werden auf eine Pixelgröße von 4x4. Die Bilder stammten vom MNIST-Datensatz. Mit Qiskit zu arbeiten in unterschiedlichen Bereichen, wie heute dem Bereich Machine-Learning bereitet immer wieder Versionskonflikte zwischen einzelnen Methoden und Klassen. Es verschlingt ungemein viel Zeit. Aber auch dieses Problem war zu lösen und mein Programm lief und lief und wollte auch nicht mehr aufhören zu laufen. 
+nach 78 Minuten brach ich ab. Nach der Ursache schaue ich morgen. 
+
+
+# Tag 46 (21.08.2025):
+
+- Das Problem mit der Bohm´schen Mechanik https://www.youtube.com/watch?v=cFLX9ipVius
+- Ursachensuche: zu hohe Laufzeit für das erkennen von Bilder des MNIST-Datensatzes
+	- Bruchteil der Datenbank verwendet, Bildpixelgröße von 4x4 auf 2x2 (4 Features) runtergesetzt, von 8 Qubits auf 4 gesenkt
+- Projektplanung für die IHK-Abschlussprüfung: Smart Fond Lite (C:\Users\juanc\Documents\Ausbildung_Informatik\1_Praktikum\Projekt Smart Fond)
+
+[[DOCUMENTATION#Tag 46 (21.08.2025)]] 

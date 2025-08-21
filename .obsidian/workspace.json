@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "50822b4351ea55a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
             "id": "2228bb369ad2a8d3",
             "type": "leaf",
             "state": {
@@ -257,8 +269,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
       "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
@@ -269,32 +282,35 @@
   "lastOpenFiles": [
     "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
-    "Python_JNotebook/Qiskit/quantum_route_plot.png",
-    "Python_JNotebook/Qiskit/quantum_route.csv",
+    "Python_JNotebook/Qiskit/Machine_Leaning_y_test.csv",
+    "Python_JNotebook/Qiskit/Machine_Leaning_X_test.csv",
+    "Python_JNotebook/Qiskit/Machine_Leaning_y_train.csv",
+    "Python_JNotebook/Qiskit/Machine_Leaning_X_train.csv",
+    "Python_JNotebook/Qiskit/Machine_Learning_sample_predictions.png",
+    "Python_JNotebook/Qiskit/sample_predictions.png",
+    "Python_JNotebook/Qiskit/confusion_matrix.png",
+    "Python_JNotebook/Qiskit/y_test.csv",
+    "Python_JNotebook/Qiskit/X_test.csv",
+    "Python_JNotebook/Qiskit/y_train.csv",
+    "Python_JNotebook/Qiskit/X_train.csv",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/solvers/diophantine/tests/__pycache__/__init__.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/solvers/diophantine/tests/__pycache__/test_diophantine.cpython-310.pyc",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/text.png",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/rocket.jpg",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/retina.jpg",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/page.png",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/phantom.png",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/motorcycle_left.png",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/no_time_for_that_tiny.gif",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sklearn/externals/array_api_extra/README.md",
+    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sklearn/externals/array_api_compat/README.md",
     "Lernplan - Quantencomputing für Data Scientists.md",
-    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM.ipynb",
-    "Python_JNotebook/Qiskit/QAOA_vs_Classic_on_IBM_nicht_möglich_da_zu_viele_Parameter.ipynb",
-    "Python_JNotebook/Qiskit/qaoa_route.csv",
-    "Python_JNotebook/Qiskit/classical_route.csv",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pandas/__pycache__/testing.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pandas/tests/io/xml/__pycache__/__init__.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pandas/tests/io/xml/__pycache__/test_xml_dtypes.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pandas/tests/io/xml/__pycache__/test_xml.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pandas/tests/io/xml/__pycache__/test_to_xml.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/ipywidgets/widgets/tests/data/jupyter-logo-transparent.png",
     "Willkommen.md",
     "gespraechmitklaus.md",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/plotting/tests/test_region_xor.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/plotting/tests/test_region_or.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/plotting/tests/test_region_not.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/plotting/tests/test_region_and.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/idna-3.10.dist-info/LICENSE.md",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/scipy/ndimage/tests/dots.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/scipy/fft/_pocketfft/LICENSE.md",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/matplotlib/mpl-data/sample_data/logo2.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/numpy/random/LICENSE.md",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/debugpy/_vendored/pydevd/pydevd_plugins/extensions/README.md",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/pyzmq-27.0.1.dist-info/licenses/LICENSE.md",
@@ -308,9 +324,6 @@
     "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/02 - Verschränkung.md",
     "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
     "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/03 - Bloch-Kugel.md",
-    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/02 - Verschränkung.md",
-    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/01 - Quantenbit (Qubit).md",
-    "Praktikum_Daten-_und_Prozessanalyse/quantenannealing.md",
-    "Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Python/Jupyter Notebook/Sortieralgorithmen/Sortieralgorithmen-Einlesen_und_Speichern_von_CSV.md"
+    "Praktikum_Daten-_und_Prozessanalyse/Praktikum_Daten-_und_Prozessanalyse/Quantum_Computing_Team/Aufzeichnungen Obsidian/01 - Qubit/02 - Verschränkung.md"
   ]
 }

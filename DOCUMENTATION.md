@@ -443,3 +443,19 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 
 - Fortführung des kleinen Routingprogramms
 [[LERNTAGEBUCH#Tag 44 (19.08.2025)]] 
+
+# Tag 45 (20.08.2025):
+
+- Quantencomputer von SpinQ (3 Qubits) anschauen
+- Voraussetzungen für Bilderkennung 4x4 Pixel
+- Quantum-Machine-Learning (QMM) in Jupyter
+
+[[LERNTAGEBUCH#Tag 45 (20.08.2025)]] 
+
+# Tag 46 (21.08.2025):
+
+- Das Problem mit der Bohm´schen Mechanik https://www.youtube.com/watch?v=cFLX9ipVius
+- Ursachensuche: zu hohe Laufzeit für das erkennen von Bilder des MNIST-Datensatzes
+- Projektplanung für die IHK-Abschlussprüfung: Smart Fond Lite (C:\Users\juanc\Documents\Ausbildung_Informatik\1_Praktikum\Projekt Smart Fond)
+
+[[LERNTAGEBUCH#Tag 46 (21.08.2025)]] 
