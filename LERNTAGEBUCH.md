@@ -637,3 +637,13 @@ nach 78 Minuten brach ich ab. Nach der Ursache schaue ich morgen.
 - Projektplanung für die IHK-Abschlussprüfung: Smart Fond Lite (C:\Users\juanc\Documents\Ausbildung_Informatik\1_Praktikum\Projekt Smart Fond)
 
 [[DOCUMENTATION#Tag 46 (21.08.2025)]] 
+
+
+# Tag 47 (22.08.2025):
+
+- Suche nach geeignetem Projekt für die IHK-Abschlussprüfung
+	- Logistikdatensätze 
+	- Download von LaDe-Dataset https://huggingface.co/datasets/Cainiao-AI/LaDe/tree/main/delivery
+	- Erstellung einer Roadmap
+
+[[DOCUMENTATION#Tag 47 (22.08.2025)]] 

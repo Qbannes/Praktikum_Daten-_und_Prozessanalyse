@@ -45,3 +45,9 @@
 - Tesler Roboter 2025
 - Rotterdam: erstes skalierbares Quantennetzwerk zur Kommunikation errichtet
 - Bezüglich Fördermittel: 
+
+# 21.08.2025
+- Die Projektidee für die Handschrifterkennung (Smart Fond) sieht Klaus als  keine bahnbrechende Idee
+- Vorgeschlagene Projekte: Moorläufer (wobei das bei näherer Betrachtung extrem Aufwendig werden könnte), Interface-Tool für die Bereitstellung von volkswirtschaftlichen und betrieblichen Daten für Unternehmen
+- Was will der Markt gerade? Das Projekt sollte marktkonform sein 
+- Wie könnte man mit KI-Agenten Datenanalyse unterstützen?
