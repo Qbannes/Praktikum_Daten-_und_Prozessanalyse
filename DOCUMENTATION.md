@@ -481,4 +481,6 @@ Wiederaufgreifen des Quanten-Routing-Programms
 - verbesserte Version (SmallerRoutingOnIBM_erweitert.jpynb)
 - jetzt mit 6 Orten, benötigte Qubits: 129
 - Test auf dem IBM_Torino mit 133 Qubits
+Projektorientierung: Neuer Projektvorschlag von Klaus ,,AI-Sichtbarkeit"
+					(Anmerk.: Sehr vielversprechend)
 [[LERNTAGEBUCH#Tag 49 26.08.2025]] 
