@@ -467,3 +467,18 @@ Programmieren: Groveralgorithmus vs. Linearer Suchalgorithmus (VergleichGroverUn
 	- Download von LaDe-Dataset https://huggingface.co/datasets/Cainiao-AI/LaDe/tree/main/delivery
 	- Erstellung einer Roadmap
 [[LERNTAGEBUCH#Tag 47 (22.08.2025)]] 
+
+# Tag 48 25.08.2025
+
+Projektvorbereitung
+Vollendung der Roadmap
+Übungen Maschinelles Lernen in Jupyter: Neuronale Netzwerke 
+[[LERNTAGEBUCH#Tag 48 25.08.2025]] 
+# Tag 49 26.08.2025
+
+Funktionen und Schleifen besser verstehen, durch Visualisierung im Structorizer
+Wiederaufgreifen des Quanten-Routing-Programms
+- verbesserte Version (SmallerRoutingOnIBM_erweitert.jpynb)
+- jetzt mit 6 Orten, benötigte Qubits: 129
+- Test auf dem IBM_Torino mit 133 Qubits
+[[LERNTAGEBUCH#Tag 49 26.08.2025]] 

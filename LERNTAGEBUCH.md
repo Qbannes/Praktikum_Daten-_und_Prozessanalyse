@@ -647,3 +647,21 @@ nach 78 Minuten brach ich ab. Nach der Ursache schaue ich morgen.
 	- Erstellung einer Roadmap
 
 [[DOCUMENTATION#Tag 47 (22.08.2025)]] 
+
+
+# Tag 48 25.08.2025
+
+Projektvorbereitung
+Vollendung der Roadmap
+Übungen Maschinelles Lernen in Jupyter: Neuronale Netzwerke 
+[[DOCUMENTATION#Tag 48 25.08.2025]] 
+# Tag 49 26.08.2025
+
+Funktionen und Schleifen besser verstehen, durch Visualisierung im Structorizer
+Wiederaufgreifen des Quanten-Routing-Programms
+- verbesserte Version (SmallerRoutingOnIBM_erweitert.jpynb)
+- jetzt mit 6 Orten, benötigte Qubits: 129
+- Test auf dem IBM_Torino mit 133 Qubits
+
+Ich wollte heute nochmal das Programm zurückkommen, welches über den IBM Quantencomputer die optimalste Route berechnet. Ich habe noch einen weiteren Ort(Punkt) eingetragen, was nun insgesamt 6 Orte sind (Depot und 5 Kunden). Ich verstehe noch nicht so ganz, weshalb D-Wave eine Routenplanung mit 44 Orten geschafft hat. Möglicherweise haben sie mehr Qubits zur Verfügung. Mein Vorgang benötigte schon 129 Qubits. Bei einem weiteren Ort steigt die Qubitanzahl auf 178 Qubits. Das übersteigt bei weitem die 133 Qubits bei IBM´s Quantencomputer in Torino. 
+[[DOCUMENTATION#Tag 49 26.08.2025]] 

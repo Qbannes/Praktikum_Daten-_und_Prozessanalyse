@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "50822b4351ea55a5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
             "id": "2228bb369ad2a8d3",
             "type": "leaf",
             "state": {
@@ -280,23 +268,25 @@
   },
   "active": "2c240c2a3aa89f9d",
   "lastOpenFiles": [
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_routes_statsII.csv",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_full_distributionII.csv",
+    "Python_JNotebook/Qiskit/quantum_route_full_distribution.csv",
     "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_routes_stats.csv",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_full_distribution.csv",
+    "Python_JNotebook/Qiskit/quantum_routes_stats.csv",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_erweitert.ipynb",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM - Kopie.ipynb",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_set_plot.png",
     "Lernplan - Quantencomputing für Data Scientists.md",
     "gespraechmitklaus.md",
     "Python_JNotebook/Qiskit/Machine_Leaning_y_test.csv",
     "Python_JNotebook/Qiskit/Machine_Leaning_X_test.csv",
     "Python_JNotebook/Qiskit/Machine_Leaning_y_train.csv",
-    "Python_JNotebook/Qiskit/Machine_Leaning_X_train.csv",
     "Python_JNotebook/Qiskit/Machine_Learning_sample_predictions.png",
     "Python_JNotebook/Qiskit/sample_predictions.png",
     "Python_JNotebook/Qiskit/confusion_matrix.png",
-    "Python_JNotebook/Qiskit/y_test.csv",
-    "Python_JNotebook/Qiskit/X_test.csv",
-    "Python_JNotebook/Qiskit/y_train.csv",
-    "Python_JNotebook/Qiskit/X_train.csv",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/solvers/diophantine/tests/__pycache__/__init__.cpython-310.pyc",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sympy/solvers/diophantine/tests/__pycache__/test_diophantine.cpython-310.pyc",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/text.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/rocket.jpg",
@@ -304,7 +294,6 @@
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/page.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/phantom.png",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/motorcycle_left.png",
-    "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/skimage/data/no_time_for_that_tiny.gif",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sklearn/externals/array_api_extra/README.md",
     "Python_JNotebook/Qiskit/qiskit_env/Lib/site-packages/sklearn/externals/array_api_compat/README.md",
     "Willkommen.md",
