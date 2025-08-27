@@ -484,3 +484,14 @@ Wiederaufgreifen des Quanten-Routing-Programms
 Projektorientierung: Neuer Projektvorschlag von Klaus ,,AI-Sichtbarkeit"
 					(Anmerk.: Sehr vielversprechend)
 [[LERNTAGEBUCH#Tag 49 26.08.2025]] 
+
+# Tag 50 27.08.2025
+
+Projektauswahl: AI-Sichtbarkeit von Unternehmen Amazon
+- Projektstrukturierung und Erste Schritte:
+	- Jupyter: KI-API programmiert  und Suchanfrage gestellt
+
+Routing Programm in Qiskit:
+- Änderungen: Anzahl der gezeigten Plots auf 100 
+- Auswertung der Ergebnisse
+[[LERNTAGEBUCH#Tag 50 27.08.2025]] 

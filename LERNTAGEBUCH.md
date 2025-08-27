@@ -663,5 +663,21 @@ Wiederaufgreifen des Quanten-Routing-Programms
 - jetzt mit 6 Orten, benötigte Qubits: 129
 - Test auf dem IBM_Torino mit 133 Qubits
 
-Ich wollte heute nochmal das Programm zurückkommen, welches über den IBM Quantencomputer die optimalste Route berechnet. Ich habe noch einen weiteren Ort(Punkt) eingetragen, was nun insgesamt 6 Orte sind (Depot und 5 Kunden). Ich verstehe noch nicht so ganz, weshalb D-Wave eine Routenplanung mit 44 Orten geschafft hat. Möglicherweise haben sie mehr Qubits zur Verfügung. Mein Vorgang benötigte schon 129 Qubits. Bei einem weiteren Ort steigt die Qubitanzahl auf 178 Qubits. Das übersteigt bei weitem die 133 Qubits bei IBM´s Quantencomputer in Torino. 
+Ich wollte heute nochmal auf das Programm zurückkommen, welches über den IBM Quantencomputer die optimalste Route ermittelt. Ich habe noch einen weiteren Ort(Punkt) eingetragen, was nun insgesamt 6 Orte sind (Depot und 5 Kunden). Ich verstehe noch nicht so ganz, weshalb D-Wave eine Routenplanung mit 44 Orten geschafft hat. Möglicherweise haben sie mehr Qubits zur Verfügung. Mein Vorgang benötigte schon 129 Qubits. Bei einem weiteren Ort steigt die Qubitanzahl auf 178 Qubits. Das übersteigt bei weitem die 133 Qubits bei IBM´s Quantencomputer in Torino. 
 [[DOCUMENTATION#Tag 49 26.08.2025]] 
+
+# Tag 50 27.08.2025
+
+Projektauswahl: AI-Sichtbarkeit von Unternehmen Amazon
+- Projektstrukturierung und Erste Schritte:
+	- Jupyter: KI-API programmiert  und Suchanfrage gestellt
+
+Routing Programm in Qiskit:
+- Änderungen: Anzahl der gezeigten Plots auf 100 
+- Auswertung der Ergebnisse
+[[DOCUMENTATION#Tag 50 27.08.2025]] 
+
+Gestern habe ich mich indirekt mit Klaus auf ein von Ihm angeregtes Projekt geeinigt. Projekt AI-Sichtbarkeit. Wie Präsent sind Unternehmen bei KI-Suchanfragen? Dieser Frage werde ich nachgehen. Heute habe ich ein bisschen in Jupyter programmiert. Ich habe 32 Fragen über das Unternehmen und darunter auch Fragen zu spezifischen Themengebieten von Amazon wie zum Beispiel dem Kundenservice erstellt. Diese Fragen sind im Programm und werden automatisch alle gestellt und hinterher bereinigt und ausgewertet.  Leider scheiterte es heute schon an der reinen Anfrage. Der von mir genutzt API-Key von OpenAI (hier soll GPT4.0 befragt werden) funktionierte nicht und das Programm den Fehler zurück, dass das Kontingent ausgeschöpft sei. Ein API-Key eines anderen Accounts, der bezahlt ist, ergab leider den selben Fehler. Was es damit auf sich hat, habe ich heute noch nicht herausfinden können.
+
+Bei dem Routenplanerprogramm habe ich noch Fragen, die beantwortet werden wollen. Ich bekomme nämlich 1024 mögliche Routen. Allerdings beim Plotten von 100 Routen sehe ich keine einzige Route die von den anderen 99 Routen abweicht. Das halte ich einerseits für ein ordentliches Ergebnis, andererseits aber müsste es doch mehrere verschiedene Routen gegeben haben? Alle 1024 Plots werde ich mir nicht anzeigen lassen. Ich muss die Rohdaten von IBM unter die Lupe nehmen, um zu sehen, ob es überhaupt Abweichungen gibt in der Route. 
+

@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,13 +266,14 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "2228bb369ad2a8d3",
+  "active": "2c240c2a3aa89f9d",
   "lastOpenFiles": [
+    "DOCUMENTATION.md",
     "LERNTAGEBUCH.md",
+    "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_full_distributionIII.csv",
     "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_routes_statsII.csv",
     "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_full_distributionII.csv",
     "Python_JNotebook/Qiskit/quantum_route_full_distribution.csv",
-    "DOCUMENTATION.md",
     "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_routes_stats.csv",
     "Python_JNotebook/Qiskit/SmallerRoutingOnIBM_full_distribution.csv",
     "Python_JNotebook/Qiskit/quantum_routes_stats.csv",
@@ -282,7 +283,6 @@
     "Lernplan - Quantencomputing für Data Scientists.md",
     "gespraechmitklaus.md",
     "Python_JNotebook/Qiskit/Machine_Leaning_y_test.csv",
-    "Python_JNotebook/Qiskit/Machine_Leaning_X_test.csv",
     "Python_JNotebook/Qiskit/Machine_Learning_sample_predictions.png",
     "Python_JNotebook/Qiskit/sample_predictions.png",
     "Python_JNotebook/Qiskit/confusion_matrix.png",
